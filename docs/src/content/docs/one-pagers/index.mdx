@@ -1,0 +1,33 @@
+---
+title: One-pagers by topic
+description: Loose decks grouped by problem — noise, sensors, safety, vehicle.
+sidebar:
+  label: Overview
+  order: 0
+---
+
+import { CardGrid, Card } from '@astrojs/starlight/components';
+
+27 loose decks live at `One Pagers/` root (no TRM folder). They are grouped here by
+**problem**, not filename, so you can compare variants side by side. TRM-folder decks
+have their own pages under [TRM index](../trm/).
+
+<CardGrid>
+  <Card title="Systems engineering" icon="setting">Process, autocoding, torque-steer, cross-check.</Card>
+  <Card title="Core mechanical" icon="puzzle">Isolators, pinion, high-risk 2-pagers, ball-nut bearing.</Card>
+  <Card title="Sensors & torque" icon="magnifier">NG/off-axis/T&P, Hall teeth, probe housing, dims.</Card>
+  <Card title="Motor noise / NVH" icon="star">2-step skew ×3, R1=R2 SPM, PMSynRM, friction.</Card>
+  <Card title="Electronics & safety" icon="warning">Redundant controller, limp-home, sensorless.</Card>
+  <Card title="Vehicle integration" icon="rocket">REPS ratio, EA4 timing, Ford CD6, HRLOEPS, roadmap deltas.</Card>
+</CardGrid>
+
+## Topics
+
+| Topic | Page |
+|---|---|
+| Systems engineering | [Open](./systems-engineering/) |
+| Core mechanical | [Open](./core-mechanical/) |
+| Sensors & torque | [Open](./sensors-torque/) |
+| Motor noise / NVH | [Open](./motor-noise-nvh/) |
+| Electronics & safety | [Open](./electronics-safety/) |
+| Vehicle integration | [Open](./vehicle-integration/) |

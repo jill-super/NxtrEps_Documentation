@@ -1,0 +1,9 @@
+---
+interface Props {
+  name: string;
+  size?: string;
+  kind?: string;
+}
+const { name, size, kind } = Astro.props;
+---
+<span class="source-file">📎 {name}{size ? ` · ${size}` : ''}{kind ? ` · ${kind}` : ''}</span>

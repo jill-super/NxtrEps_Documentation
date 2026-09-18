@@ -1,0 +1,21 @@
+/* Starlight readability tweaks — keep typography calm, tables scrollable. */
+:root {
+  --sl-content-width: 52rem;
+  --sl-line-height: 1.7;
+}
+
+.sl-markdown-content table {
+  display: block;
+  overflow-x: auto;
+  font-size: 0.92rem;
+}
+
+.sl-markdown-content img {
+  border-radius: 0.5rem;
+  border: 1px solid var(--sl-color-gray-5);
+}
+
+.source-file {
+  font-size: 0.85rem;
+  color: var(--sl-color-gray-3);
+}

@@ -1,0 +1,3130 @@
+{
+ "trm/trm-002": {
+  "images": [
+   {
+    "file": "assets/trm/trm-002/fig-01-se02-global-cross-check-pattok-d17e011878.jpg",
+    "src": "One Pagers/TRM-002/SE02 - Global Cross Check_Pattok (07OC14).pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-002/fig-02-se02-global-cross-check-pattok-6e702b5371.jpg",
+    "src": "One Pagers/TRM-002/SE02 - Global Cross Check_Pattok (07OC14).pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-002/fig-03-se02-global-cross-check-pattok-87704e620c.png",
+    "src": "One Pagers/TRM-002/SE02 - Global Cross Check_Pattok (07OC14).pptx",
+    "bytes": 167255,
+    "w": 828,
+    "h": 605
+   },
+   {
+    "file": "assets/trm/trm-002/fig-04-se02-global-cross-check-pattok-4760cdf9da.jpeg",
+    "src": "One Pagers/TRM-002/SE02 - Global Cross Check_Pattok (07OC14).pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 2,
+  "candidates": 4,
+  "files": [
+   "One Pagers/TRM-002/SE02 - Global Cross Check_Pattok (07OC14).pptx",
+   "One Pagers/TRM-002/SE02 - Global Cross Check_Pattok.pptx"
+  ]
+ },
+ "trm/trm-006": {
+  "images": [
+   {
+    "file": "assets/trm/trm-006/fig-01-se06-system-architecture-model-d17e011878.jpeg",
+    "src": "One Pagers/TRM-006/SE06 - System Architecture Modeling Tools_Wittig.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-006/fig-02-se06-system-architecture-model-52820c78d3.jpeg",
+    "src": "One Pagers/TRM-006/SE06 - System Architecture Modeling Tools_Wittig.pptx",
+    "bytes": 145337,
+    "w": 600,
+    "h": 450
+   },
+   {
+    "file": "assets/trm/trm-006/fig-03-se06-system-architecture-model-6e94f63b6e.jpeg",
+    "src": "One Pagers/TRM-006/SE06 - System Architecture Modeling Tools_Wittig.pptx",
+    "bytes": 34386,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-006/fig-04-se06-system-architecture-model-4760cdf9da.jpeg",
+    "src": "One Pagers/TRM-006/SE06 - System Architecture Modeling Tools_Wittig.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 1,
+  "candidates": 4,
+  "files": [
+   "One Pagers/TRM-006/SE06 - System Architecture Modeling Tools_Wittig.pptx"
+  ]
+ },
+ "trm/trm-007": {
+  "images": [
+   {
+    "file": "assets/trm/trm-007/fig-01-se07-formal-safety-process-pat-d17e011878.jpg",
+    "src": "One Pagers/TRM-007/SE07 - Formal safety process_Pattok one pager.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-007/fig-02-se07-formal-safety-process-pat-6e702b5371.jpg",
+    "src": "One Pagers/TRM-007/SE07 - Formal safety process_Pattok one pager.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-007/fig-03-se07-formal-safety-process-pat-4760cdf9da.jpeg",
+    "src": "One Pagers/TRM-007/SE07 - Formal safety process_Pattok one pager.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 1,
+  "candidates": 3,
+  "files": [
+   "One Pagers/TRM-007/SE07 - Formal safety process_Pattok one pager.pptx"
+  ]
+ },
+ "trm/trm-008": {
+  "images": [
+   {
+    "file": "assets/trm/trm-008/fig-01-se08-system-architecture-and-r-d17e011878.jpeg",
+    "src": "One Pagers/TRM-008/SE08 - System Architecture and Requirements Traceability_Wittig.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-008/fig-02-se08-system-architecture-and-r-6ba20e46be.png",
+    "src": "One Pagers/TRM-008/SE08 - System Architecture and Requirements Traceability_Wittig.pptx",
+    "bytes": 157487,
+    "w": 1273,
+    "h": 791
+   },
+   {
+    "file": "assets/trm/trm-008/fig-03-se08-system-architecture-and-r-6e94f63b6e.jpeg",
+    "src": "One Pagers/TRM-008/SE08 - System Architecture and Requirements Traceability_Wittig.pptx",
+    "bytes": 34386,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-008/fig-04-se08-system-architecture-and-r-4760cdf9da.jpeg",
+    "src": "One Pagers/TRM-008/SE08 - System Architecture and Requirements Traceability_Wittig.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 1,
+  "candidates": 4,
+  "files": [
+   "One Pagers/TRM-008/SE08 - System Architecture and Requirements Traceability_Wittig.pptx"
+  ]
+ },
+ "trm/trm-009": {
+  "images": [
+   {
+    "file": "assets/trm/trm-009/fig-01-se09-autocoding-of-system-soft-d17e011878.jpeg",
+    "src": "One Pagers/TRM-009/SE09 -Autocoding of System Software Components_Wittig.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-009/fig-02-se09-autocoding-of-system-soft-8e5b480954.png",
+    "src": "One Pagers/TRM-009/SE09 -Autocoding of System Software Components_Wittig.pptx",
+    "bytes": 111738,
+    "w": 741,
+    "h": 564
+   },
+   {
+    "file": "assets/trm/trm-009/fig-03-se09-autocoding-of-system-soft-6e94f63b6e.jpeg",
+    "src": "One Pagers/TRM-009/SE09 -Autocoding of System Software Components_Wittig.pptx",
+    "bytes": 34386,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-009/fig-04-se09-autocoding-of-system-soft-4760cdf9da.jpeg",
+    "src": "One Pagers/TRM-009/SE09 -Autocoding of System Software Components_Wittig.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 1,
+  "candidates": 4,
+  "files": [
+   "One Pagers/TRM-009/SE09 -Autocoding of System Software Components_Wittig.pptx"
+  ]
+ },
+ "trm/trm-014": {
+  "images": [
+   {
+    "file": "assets/trm/trm-014/fig-01-se14-systematic-software-prote-d17e011878.jpg",
+    "src": "One Pagers/TRM-014/SE14 - systematic software protection_KPattok.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-014/fig-02-se14-systematic-software-prote-6e702b5371.jpg",
+    "src": "One Pagers/TRM-014/SE14 - systematic software protection_KPattok.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-014/fig-03-se14-systematic-software-prote-740e0f7520.png",
+    "src": "One Pagers/TRM-014/SE14 - systematic software protection_KPattok.pptx",
+    "bytes": 63885,
+    "w": 776,
+    "h": 385
+   },
+   {
+    "file": "assets/trm/trm-014/fig-04-se14-systematic-software-prote-4760cdf9da.jpeg",
+    "src": "One Pagers/TRM-014/SE14 - systematic software protection_KPattok.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 4,
+  "files": [
+   "One Pagers/TRM-014/SE14 - systematic software protection_KPattok.pptx"
+  ]
+ },
+ "trm/trm-016": {
+  "images": [
+   {
+    "file": "assets/trm/trm-016/fig-01-se16-integrated-next-gen-power-d17e011878.jpeg",
+    "src": "One Pagers/TRM-016/SE16 - Integrated Next Gen Power Management_KleinauV1.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-016/fig-02-se16-integrated-next-gen-power-6e94f63b6e.jpeg",
+    "src": "One Pagers/TRM-016/SE16 - Integrated Next Gen Power Management_KleinauV1.pptx",
+    "bytes": 34386,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-016/fig-03-se16-integrated-next-gen-power-4760cdf9da.jpeg",
+    "src": "One Pagers/TRM-016/SE16 - Integrated Next Gen Power Management_KleinauV1.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 2,
+  "candidates": 3,
+  "files": [
+   "One Pagers/TRM-016/SE16 - Integrated Next Gen Power Management_KleinauV1.pptx"
+  ]
+ },
+ "trm/trm-019": {
+  "images": [
+   {
+    "file": "assets/trm/trm-019/pdf-p1-1440x1080.png",
+    "src": "One Pagers/TRM-019/SE19 - Next Gen Brush Motor Current Control_Kleinau.pdf",
+    "bytes": 212792,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-019/pdf-p2-1440x1080.png",
+    "src": "One Pagers/TRM-019/SE19 - Next Gen Brush Motor Current Control_Kleinau.pdf",
+    "bytes": 179541,
+    "w": 1440,
+    "h": 1080
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 0,
+  "files": [
+   "One Pagers/TRM-019/SE19 - Next Gen Brush Motor Current Control_Kleinau.pdf"
+  ]
+ },
+ "trm/trm-033": {
+  "images": [
+   {
+    "file": "assets/trm/trm-033/fig-01-se33-motorsensortechdev-kleina-d17e011878.jpg",
+    "src": "One Pagers/TRM-033/SE33 - MotorSensorTechDev_KleinauV1.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-033/fig-02-se33-motorsensortechdev-kleina-6e702b5371.jpg",
+    "src": "One Pagers/TRM-033/SE33 - MotorSensorTechDev_KleinauV1.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-033/fig-03-se33-motorsensortechdev-kleina-089ff3908e.png",
+    "src": "One Pagers/TRM-033/SE33 - MotorSensorTechDev_KleinauV1.pptx",
+    "bytes": 112979,
+    "w": 605,
+    "h": 593
+   },
+   {
+    "file": "assets/trm/trm-033/fig-04-motor-sensor-cost-for-trm-06ap-3c9bdb26ec.png",
+    "src": "One Pagers/TRM-033/Motor Sensor Cost for TRM 06AP16.pptx",
+    "bytes": 92692,
+    "w": 1078,
+    "h": 1285
+   },
+   {
+    "file": "assets/trm/trm-033/fig-05-motor-sensor-cost-for-trm-06ap-9c03d955ca.png",
+    "src": "One Pagers/TRM-033/Motor Sensor Cost for TRM 06AP16.pptx",
+    "bytes": 55243,
+    "w": 891,
+    "h": 999
+   },
+   {
+    "file": "assets/trm/trm-033/fig-06-se33-motorsensortechdev-kleina-4760cdf9da.jpeg",
+    "src": "One Pagers/TRM-033/SE33 - MotorSensorTechDev_KleinauV1.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 4,
+  "candidates": 6,
+  "files": [
+   "One Pagers/TRM-033/SE33 - MotorSensorTechDev_KleinauV1.pptx",
+   "One Pagers/TRM-033/SE33 - MotorSensorTechDev_KleinauV2.pptx",
+   "One Pagers/TRM-033/Motor Sensor Cost for TRM 06AP16.pptx"
+  ]
+ },
+ "trm/trm-043": {
+  "images": [
+   {
+    "file": "assets/trm/trm-043/fig-01-se43-limp-home-current-sensor--d17e011878.jpeg",
+    "src": "One Pagers/TRM-043/SE43 - Limp Home Current Sensor_KleinauV2.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-043/fig-02-se43-limp-home-current-sensor--6e94f63b6e.jpeg",
+    "src": "One Pagers/TRM-043/SE43 - Limp Home Current Sensor_KleinauV2.pptx",
+    "bytes": 34386,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-043/fig-03-se43-limp-home-current-sensor--4760cdf9da.jpeg",
+    "src": "One Pagers/TRM-043/SE43 - Limp Home Current Sensor_KleinauV2.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 4,
+  "candidates": 3,
+  "files": [
+   "One Pagers/TRM-043/SE43 - Limp Home Current Sensor_KleinauV2.pptx",
+   "One Pagers/TRM-043/SE43 - Limp Home Current Sensor_KleinauV3.pptx"
+  ]
+ },
+ "trm/trm-045": {
+  "images": [
+   {
+    "file": "assets/trm/trm-045/fig-01-techrm-0511-5d2591d371.png",
+    "src": "One Pagers/TRM-045/TechRM_0511.pptx",
+    "bytes": 108737,
+    "w": 476,
+    "h": 476
+   },
+   {
+    "file": "assets/trm/trm-045/fig-02-techrm-0511-db8bc0d15e.png",
+    "src": "One Pagers/TRM-045/TechRM_0511.pptx",
+    "bytes": 80607,
+    "w": 709,
+    "h": 447
+   },
+   {
+    "file": "assets/trm/trm-045/fig-03-techrm-0511-a2f1fda8cd.png",
+    "src": "One Pagers/TRM-045/TechRM_0511.pptx",
+    "bytes": 77113,
+    "w": 1920,
+    "h": 622
+   },
+   {
+    "file": "assets/trm/trm-045/fig-04-techrm-0511-f46d66e8e3.jpeg",
+    "src": "One Pagers/TRM-045/TechRM_0511.pptx",
+    "bytes": 53198,
+    "w": 720,
+    "h": 540
+   },
+   {
+    "file": "assets/trm/trm-045/fig-05-techrm-0511-8a5bbd91d6.png",
+    "src": "One Pagers/TRM-045/TechRM_0511.pptx",
+    "bytes": 44933,
+    "w": 700,
+    "h": 525
+   },
+   {
+    "file": "assets/trm/trm-045/fig-06-techrm-0511-2a6bf74dc6.png",
+    "src": "One Pagers/TRM-045/TechRM_0511.pptx",
+    "bytes": 28986,
+    "w": 700,
+    "h": 525
+   },
+   {
+    "file": "assets/trm/trm-045/fig-07-techrm-0511-9ce0f2dc60.png",
+    "src": "One Pagers/TRM-045/TechRM_0511.pptx",
+    "bytes": 24202,
+    "w": 709,
+    "h": 443
+   },
+   {
+    "file": "assets/trm/trm-045/fig-08-techrm-0511-2a5be87f62.png",
+    "src": "One Pagers/TRM-045/TechRM_0511.pptx",
+    "bytes": 22766,
+    "w": 709,
+    "h": 447
+   },
+   {
+    "file": "assets/trm/trm-045/fig-09-techrm-0511-2cbfac3a81.png",
+    "src": "One Pagers/TRM-045/TechRM_0511.pptx",
+    "bytes": 10572,
+    "w": 2400,
+    "h": 510
+   }
+  ],
+  "vectors_skipped": 3,
+  "candidates": 9,
+  "files": [
+   "One Pagers/TRM-045/SE45B - LimpHomePosSensor_wTC_KleinauV3-PPT2003.ppt",
+   "One Pagers/TRM-045/SE45B Limp Home Mtr Pos Sensor wTC_Kleinau.ppt",
+   "One Pagers/TRM-045/TechRM_0511.pptx"
+  ]
+ },
+ "trm/trm-050": {
+  "images": [
+   {
+    "file": "assets/trm/trm-050/fig-01-se50-torque-steer-compensation-d17e011878.jpg",
+    "src": "One Pagers/TRM-050/SE50 -Torque Steer Compensation_Hales.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-050/fig-02-se50-torque-steer-compensation-6e702b5371.jpg",
+    "src": "One Pagers/TRM-050/SE50 -Torque Steer Compensation_Hales.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-050/fig-03-se50-torque-steer-compensation-4760cdf9da.jpeg",
+    "src": "One Pagers/TRM-050/SE50 -Torque Steer Compensation_Hales.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   },
+   {
+    "file": "assets/trm/trm-050/fig-04-se50-torque-steer-compensation-c5fdeb22f6.jpg",
+    "src": "One Pagers/TRM-050/SE50 -Torque Steer Compensation_Hales.pptx",
+    "bytes": 9342,
+    "w": 300,
+    "h": 168
+   }
+  ],
+  "vectors_skipped": 1,
+  "candidates": 4,
+  "files": [
+   "One Pagers/TRM-050/SE50 -Torque Steer Compensation_Hales.pptx"
+  ]
+ },
+ "trm/trm-077": {
+  "images": [
+   {
+    "file": "assets/trm/trm-077/fig-01-ccm-77-eccentric-worm-6b18f68ff8.png",
+    "src": "One Pagers/TRM-077/CCM-77 Eccentric Worm.pptx",
+    "bytes": 215373,
+    "w": 726,
+    "h": 688
+   },
+   {
+    "file": "assets/trm/trm-077/fig-02-ccm-77-eccentric-worm-303eb6ae71.png",
+    "src": "One Pagers/TRM-077/CCM-77 Eccentric Worm.pptx",
+    "bytes": 74679,
+    "w": 792,
+    "h": 355
+   },
+   {
+    "file": "assets/trm/trm-077/fig-03-ccm-77-eccentric-worm-b661ebdfcd.png",
+    "src": "One Pagers/TRM-077/CCM-77 Eccentric Worm.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-077/fig-04-ccm-77-eccentric-worm-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-077/CCM-77 Eccentric Worm.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-077/fig-05-ccm-77-eccentric-worm-47ab1def08.jpg",
+    "src": "One Pagers/TRM-077/CCM-77 Eccentric Worm.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 5,
+  "files": [
+   "One Pagers/TRM-077/CCM-77 Eccentric Worm.pptx"
+  ]
+ },
+ "trm/trm-078": {
+  "images": [
+   {
+    "file": "assets/trm/trm-078/fig-01-ccm-78-spring-isolators-03jn15-40bfffacf4.png",
+    "src": "One Pagers/TRM-078/CCM-78 Spring Isolators 03JN15.pptx",
+    "bytes": 361438,
+    "w": 944,
+    "h": 738
+   },
+   {
+    "file": "assets/trm/trm-078/fig-02-ccm-78-spring-isolators-03jn15-f6fae38578.png",
+    "src": "One Pagers/TRM-078/CCM-78 Spring Isolators 03JN15.pptx",
+    "bytes": 129313,
+    "w": 401,
+    "h": 740
+   },
+   {
+    "file": "assets/trm/trm-078/fig-03-ccm-78-spring-isolators-03jn15-b661ebdfcd.png",
+    "src": "One Pagers/TRM-078/CCM-78 Spring Isolators 03JN15.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-078/fig-04-ccm-78-spring-isolators-03jn15-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-078/CCM-78 Spring Isolators 03JN15.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-078/fig-05-ccm-78-spring-isolators-03jn15-47ab1def08.jpg",
+    "src": "One Pagers/TRM-078/CCM-78 Spring Isolators 03JN15.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 5,
+  "files": [
+   "One Pagers/TRM-078/CCM-78 Spring Isolators 03JN15.pptx",
+   "One Pagers/TRM-078/CCM-78 Spring Isolators.pptx"
+  ]
+ },
+ "trm/trm-081": {
+  "images": [
+   {
+    "file": "assets/trm/trm-081/fig-01-ccm-81-short-tbar-profile-grin-b661ebdfcd.png",
+    "src": "One Pagers/TRM-081/CCM-81 Short Tbar - profile grind (Gen 4).pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-081/fig-02-ccm-81-short-tbar-profile-grin-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-081/CCM-81 Short Tbar - profile grind (Gen 4).pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-081/fig-03-ccm-81-short-tbar-profile-grin-47ab1def08.jpg",
+    "src": "One Pagers/TRM-081/CCM-81 Short Tbar - profile grind (Gen 4).pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 3,
+  "files": [
+   "One Pagers/TRM-081/CCM-81 Short Tbar - profile grind (Gen 4).pptx"
+  ]
+ },
+ "trm/trm-082": {
+  "images": [
+   {
+    "file": "assets/trm/trm-082/fig-01-ccm-82-shorter-overlapping-fle-b661ebdfcd.png",
+    "src": "One Pagers/TRM-082/CCM-82 Shorter (Overlapping) Flex Coupling.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-082/fig-02-ccm-82-shorter-overlapping-fle-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-082/CCM-82 Shorter (Overlapping) Flex Coupling.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-082/fig-03-ccm-82-shorter-overlapping-fle-2a49043a30.jpeg",
+    "src": "One Pagers/TRM-082/CCM-82 Shorter (Overlapping) Flex Coupling.pptx",
+    "bytes": 12692,
+    "w": 240,
+    "h": 279
+   },
+   {
+    "file": "assets/trm/trm-082/fig-04-ccm-82-shorter-overlapping-fle-47ab1def08.jpg",
+    "src": "One Pagers/TRM-082/CCM-82 Shorter (Overlapping) Flex Coupling.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 4,
+  "files": [
+   "One Pagers/TRM-082/CCM-82 Shorter (Overlapping) Flex Coupling.pptx"
+  ]
+ },
+ "trm/trm-083": {
+  "images": [
+   {
+    "file": "assets/trm/trm-083/fig-01-ccm-83-15-skew-3d3d50f5bd.png",
+    "src": "One Pagers/TRM-083/CCM-83  - 15\u00b0 Skew.pptx",
+    "bytes": 50520,
+    "w": 202,
+    "h": 484
+   },
+   {
+    "file": "assets/trm/trm-083/fig-02-ccm-83-15-skew-b661ebdfcd.png",
+    "src": "One Pagers/TRM-083/CCM-83  - 15\u00b0 Skew.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-083/fig-03-ccm-83-15-skew-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-083/CCM-83  - 15\u00b0 Skew.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-083/fig-04-ccm-83-15-skew-47ab1def08.jpg",
+    "src": "One Pagers/TRM-083/CCM-83  - 15\u00b0 Skew.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 4,
+  "files": [
+   "One Pagers/TRM-083/CCM-83  - 15\u00b0 Skew.pptx"
+  ]
+ },
+ "trm/trm-084": {
+  "images": [
+   {
+    "file": "assets/trm/trm-084/fig-01-ccm84-next-gen-plastic-pulley--d05ba5b8a0.png",
+    "src": "One Pagers/TRM-084/CCM84 Next Gen Plastic Pulley_1PGR_11NO14.pptx",
+    "bytes": 205413,
+    "w": 481,
+    "h": 514
+   },
+   {
+    "file": "assets/trm/trm-084/fig-02-ccm84-over-molded-plastic-pull-a4cfdb8805.png",
+    "src": "One Pagers/TRM-084/CCM84 Over-molded Plastic Pulley, 28OC15.pptx",
+    "bytes": 183789,
+    "w": 753,
+    "h": 547
+   },
+   {
+    "file": "assets/trm/trm-084/fig-03-ccm84-next-gen-plastic-pulley--f46d66e8e3.jpeg",
+    "src": "One Pagers/TRM-084/CCM84 Next Gen Plastic Pulley_1PGR_11NO14.pptx",
+    "bytes": 53198,
+    "w": 720,
+    "h": 540
+   },
+   {
+    "file": "assets/trm/trm-084/fig-04-ccm84-over-molded-plastic-pull-b661ebdfcd.png",
+    "src": "One Pagers/TRM-084/CCM84 Over-molded Plastic Pulley, 28OC15.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-084/fig-05-ccm84-over-molded-plastic-pull-f08e84ff33.png",
+    "src": "One Pagers/TRM-084/CCM84 Over-molded Plastic Pulley, 28OC15.pptx",
+    "bytes": 20601,
+    "w": 512,
+    "h": 476
+   },
+   {
+    "file": "assets/trm/trm-084/fig-06-ccm84-over-molded-plastic-pull-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-084/CCM84 Over-molded Plastic Pulley, 28OC15.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-084/fig-07-ccm84-next-gen-plastic-pulley--2cbfac3a81.png",
+    "src": "One Pagers/TRM-084/CCM84 Next Gen Plastic Pulley_1PGR_11NO14.pptx",
+    "bytes": 10572,
+    "w": 2400,
+    "h": 510
+   },
+   {
+    "file": "assets/trm/trm-084/fig-08-ccm84-over-molded-plastic-pull-47ab1def08.jpg",
+    "src": "One Pagers/TRM-084/CCM84 Over-molded Plastic Pulley, 28OC15.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 2,
+  "candidates": 8,
+  "files": [
+   "One Pagers/TRM-084/CCM84 Next Gen Plastic Pulley_1PGR_11NO14.pptx",
+   "One Pagers/TRM-084/CCM84 Over-molded Plastic Pulley, 28OC15.pptx",
+   "One Pagers/TRM-084/CCM84 Plastic C1XX Pulley_1PGR_11NO14.pptx",
+   "One Pagers/TRM-084/Plastic C1XX Pulley_2PGR_28MR15.pptx"
+  ]
+ },
+ "trm/trm-085": {
+  "images": [
+   {
+    "file": "assets/trm/trm-085/fig-01-ccm-85-high-output-above-90-nm-b661ebdfcd.png",
+    "src": "One Pagers/TRM-085/CCM-85 - High Output (above 90 Nm) CEPS.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-085/fig-02-ccm-85-high-output-above-90-nm-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-085/CCM-85 - High Output (above 90 Nm) CEPS.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-085/fig-03-ccm-85-high-output-above-90-nm-47ab1def08.jpg",
+    "src": "One Pagers/TRM-085/CCM-85 - High Output (above 90 Nm) CEPS.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 3,
+  "files": [
+   "One Pagers/TRM-085/CCM-85 - High Output (above 90 Nm) CEPS.pptx"
+  ]
+ },
+ "trm/trm-086": {
+  "images": [
+   {
+    "file": "assets/trm/trm-086/fig-01-ccm-86-plastic-ceps-housing-464309f715.png",
+    "src": "One Pagers/TRM-086/CCM-86 Plastic CEPS Housing.pptx",
+    "bytes": 124653,
+    "w": 503,
+    "h": 515
+   },
+   {
+    "file": "assets/trm/trm-086/fig-02-ccm-86-plastic-ceps-housing-44204ad978.png",
+    "src": "One Pagers/TRM-086/CCM-86 Plastic CEPS Housing.pptx",
+    "bytes": 112739,
+    "w": 500,
+    "h": 518
+   },
+   {
+    "file": "assets/trm/trm-086/fig-03-ccm-86-vss-grant-ceps-housing-09df41524e.jpg",
+    "src": "One Pagers/TRM-086/CCM 86 VSS GRANT CEPS Housing.pptx",
+    "bytes": 42334,
+    "w": 474,
+    "h": 440
+   },
+   {
+    "file": "assets/trm/trm-086/fig-04-ccm-86-vss-grant-ceps-housing-b661ebdfcd.png",
+    "src": "One Pagers/TRM-086/CCM 86 VSS GRANT CEPS Housing.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-086/fig-05-ccm-86-vss-grant-ceps-housing-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-086/CCM 86 VSS GRANT CEPS Housing.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-086/fig-06-ccm-86-vss-grant-ceps-housing-47ab1def08.jpg",
+    "src": "One Pagers/TRM-086/CCM 86 VSS GRANT CEPS Housing.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 6,
+  "files": [
+   "One Pagers/TRM-086/CCM 86 VSS GRANT CEPS Housing.pptx",
+   "One Pagers/TRM-086/CCM-86 Plastic CEPS Housing.pptx"
+  ]
+ },
+ "trm/trm-087": {
+  "images": [
+   {
+    "file": "assets/trm/trm-087/fig-01-ccm-87-short-tbar-no-profile-g-f5a52d3198.png",
+    "src": "One Pagers/TRM-087/CCM-87 Short Tbar - no profile grind (Gen 5).pptx",
+    "bytes": 178920,
+    "w": 1680,
+    "h": 1050
+   },
+   {
+    "file": "assets/trm/trm-087/fig-02-ccm-87-short-tbar-no-profile-g-b661ebdfcd.png",
+    "src": "One Pagers/TRM-087/CCM-87 Short Tbar - no profile grind (Gen 5).pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-087/fig-03-ccm-87-short-tbar-no-profile-g-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-087/CCM-87 Short Tbar - no profile grind (Gen 5).pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-087/fig-04-ccm-87-short-tbar-no-profile-g-47ab1def08.jpg",
+    "src": "One Pagers/TRM-087/CCM-87 Short Tbar - no profile grind (Gen 5).pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 4,
+  "files": [
+   "One Pagers/TRM-087/CCM-87 Short Tbar - no profile grind (Gen 5).pptx"
+  ]
+ },
+ "trm/trm-093": {
+  "images": [
+   {
+    "file": "assets/trm/trm-093/fig-01-rcm-93-wrap-up-02se15-b661ebdfcd.png",
+    "src": "One Pagers/TRM-093/RCM-93 Wrap-up, 02SE15.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-093/fig-02-rcm-93-wrap-up-02se15-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-093/RCM-93 Wrap-up, 02SE15.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-093/fig-03-rcm-93-wrap-up-02se15-47ab1def08.jpg",
+    "src": "One Pagers/TRM-093/RCM-93 Wrap-up, 02SE15.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 3,
+  "files": [
+   "One Pagers/TRM-093/RCM-93 Wrap-up, 02SE15.pptx"
+  ]
+ },
+ "trm/trm-094": {
+  "images": [
+   {
+    "file": "assets/trm/trm-094/fig-01-rcm-94-02se15-b661ebdfcd.png",
+    "src": "One Pagers/TRM-094/RCM-94, 02SE15.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-094/fig-02-rcm-94-02se15-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-094/RCM-94, 02SE15.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-094/fig-03-rcm-94-02se15-47ab1def08.jpg",
+    "src": "One Pagers/TRM-094/RCM-94, 02SE15.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 3,
+  "files": [
+   "One Pagers/TRM-094/RCM-94, 02SE15.pptx"
+  ]
+ },
+ "trm/trm-109": {
+  "images": [
+   {
+    "file": "assets/trm/trm-109/fig-01-ccm-109-pinion-nondelash-24fe1-6f1cce2dbc.png",
+    "src": "One Pagers/TRM-109/CCM-109 Pinion NonDelash 24FE16.pptx",
+    "bytes": 236964,
+    "w": 857,
+    "h": 691
+   },
+   {
+    "file": "assets/trm/trm-109/fig-02-ccm-109-pinion-nondelash-24fe1-934b983ec6.png",
+    "src": "One Pagers/TRM-109/CCM-109 Pinion NonDelash 24FE16.pptx",
+    "bytes": 212707,
+    "w": 809,
+    "h": 693
+   },
+   {
+    "file": "assets/trm/trm-109/fig-03-ccm-109-pinion-nondelash-24fe1-b661ebdfcd.png",
+    "src": "One Pagers/TRM-109/CCM-109 Pinion NonDelash 24FE16.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-109/fig-04-ccm-109-pinion-nondelash-24fe1-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-109/CCM-109 Pinion NonDelash 24FE16.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-109/fig-05-ccm-109-pinion-nondelash-24fe1-47ab1def08.jpg",
+    "src": "One Pagers/TRM-109/CCM-109 Pinion NonDelash 24FE16.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 5,
+  "files": [
+   "One Pagers/TRM-109/CCM-109 Pinion NonDelash 24FE16.pptx"
+  ]
+ },
+ "trm/trm-129": {
+  "images": [
+   {
+    "file": "assets/trm/trm-129/fig-01-ccm-129-single-isolated-bearin-343ec08f4e.png",
+    "src": "One Pagers/TRM-129/CCM-129 Single Isolated Bearing Worm Axis.pptx",
+    "bytes": 241818,
+    "w": 975,
+    "h": 735
+   },
+   {
+    "file": "assets/trm/trm-129/fig-02-ccm-129-single-isolated-bearin-b663e701dd.png",
+    "src": "One Pagers/TRM-129/CCM-129 Single Isolated Bearing Worm Axis.pptx",
+    "bytes": 75051,
+    "w": 559,
+    "h": 617
+   },
+   {
+    "file": "assets/trm/trm-129/fig-03-ccm-129-single-isolated-bearin-b661ebdfcd.png",
+    "src": "One Pagers/TRM-129/CCM-129 Single Isolated Bearing Worm Axis.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-129/fig-04-ccm-129-single-isolated-bearin-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-129/CCM-129 Single Isolated Bearing Worm Axis.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-129/fig-05-ccm-129-single-isolated-bearin-47ab1def08.jpg",
+    "src": "One Pagers/TRM-129/CCM-129 Single Isolated Bearing Worm Axis.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 5,
+  "files": [
+   "One Pagers/TRM-129/CCM-129 Single Isolated Bearing Worm Axis.pptx",
+   "One Pagers/TRM-129/Core Mechanical High Risk 2 pager (CCM-129 Single Isolated Bearing Worm Axis).pptx"
+  ]
+ },
+ "trm/trm-130": {
+  "images": [
+   {
+    "file": "assets/trm/trm-130/fig-01-19ja16-enhanced-fet-fault-stra-d17e011878.jpg",
+    "src": "One Pagers/TRM-130/Summary/19JA16 Enhanced FET Fault Strategy.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-130/fig-02-19ja16-enhanced-fet-fault-stra-9f093864e8.png",
+    "src": "One Pagers/TRM-130/Summary/19JA16 Enhanced FET Fault Strategy.pptx",
+    "bytes": 223175,
+    "w": 875,
+    "h": 657
+   },
+   {
+    "file": "assets/trm/trm-130/fig-03-19ja16-enhanced-fet-fault-stra-6e702b5371.jpg",
+    "src": "One Pagers/TRM-130/Summary/19JA16 Enhanced FET Fault Strategy.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-130/fig-04-19ja16-enhanced-fet-fault-stra-4c9f8f2d8b.png",
+    "src": "One Pagers/TRM-130/Summary/19JA16 Enhanced FET Fault Strategy.pptx",
+    "bytes": 76508,
+    "w": 875,
+    "h": 894
+   },
+   {
+    "file": "assets/trm/trm-130/fig-05-19ja16-enhanced-fet-fault-stra-0c25d9a853.png",
+    "src": "One Pagers/TRM-130/Summary/19JA16 Enhanced FET Fault Strategy.pptx",
+    "bytes": 37501,
+    "w": 784,
+    "h": 488
+   },
+   {
+    "file": "assets/trm/trm-130/fig-06-19ja16-enhanced-fet-fault-stra-f293e3f3c1.png",
+    "src": "One Pagers/TRM-130/Summary/19JA16 Enhanced FET Fault Strategy.pptx",
+    "bytes": 35797,
+    "w": 829,
+    "h": 490
+   },
+   {
+    "file": "assets/trm/trm-130/fig-07-19ja16-enhanced-fet-fault-stra-b68764b917.png",
+    "src": "One Pagers/TRM-130/Summary/19JA16 Enhanced FET Fault Strategy.pptx",
+    "bytes": 34548,
+    "w": 787,
+    "h": 491
+   },
+   {
+    "file": "assets/trm/trm-130/fig-08-19ja16-enhanced-fet-fault-stra-b811abfa75.png",
+    "src": "One Pagers/TRM-130/Summary/19JA16 Enhanced FET Fault Strategy.pptx",
+    "bytes": 34386,
+    "w": 787,
+    "h": 491
+   },
+   {
+    "file": "assets/trm/trm-130/fig-09-19ja16-enhanced-fet-fault-stra-2a8d7be625.png",
+    "src": "One Pagers/TRM-130/Summary/19JA16 Enhanced FET Fault Strategy.pptx",
+    "bytes": 33243,
+    "w": 799,
+    "h": 488
+   },
+   {
+    "file": "assets/trm/trm-130/fig-10-19ja16-enhanced-fet-fault-stra-25654be1b2.png",
+    "src": "One Pagers/TRM-130/Summary/19JA16 Enhanced FET Fault Strategy.pptx",
+    "bytes": 31264,
+    "w": 824,
+    "h": 446
+   },
+   {
+    "file": "assets/trm/trm-130/fig-11-19ja16-enhanced-fet-fault-stra-5bc33be412.png",
+    "src": "One Pagers/TRM-130/Summary/19JA16 Enhanced FET Fault Strategy.pptx",
+    "bytes": 31178,
+    "w": 824,
+    "h": 446
+   },
+   {
+    "file": "assets/trm/trm-130/fig-12-19ja16-enhanced-fet-fault-stra-5c2c484d40.png",
+    "src": "One Pagers/TRM-130/Summary/19JA16 Enhanced FET Fault Strategy.pptx",
+    "bytes": 30929,
+    "w": 764,
+    "h": 491
+   }
+  ],
+  "vectors_skipped": 10,
+  "candidates": 32,
+  "files": [
+   "One Pagers/TRM-130/Summary/19JA16 Enhanced FET Fault Strategy.pptx"
+  ]
+ },
+ "trm/trm-142": {
+  "images": [
+   {
+    "file": "assets/trm/trm-142/fig-01-fe142-low-cost-small-diameter--f1d9b8fc01.png",
+    "src": "One Pagers/TRM-142/FE142 Low cost small diameter torque sensor _June24_2015.pptx",
+    "bytes": 32410,
+    "w": 528,
+    "h": 428
+   },
+   {
+    "file": "assets/trm/trm-142/fig-02-fe142-low-cost-small-diameter--c7df04cfb4.png",
+    "src": "One Pagers/TRM-142/FE142 Low cost small diameter torque sensor _June24_2015.pptx",
+    "bytes": 26303,
+    "w": 596,
+    "h": 414
+   },
+   {
+    "file": "assets/trm/trm-142/fig-03-fe142-low-cost-small-diameter--b93f34c239.png",
+    "src": "One Pagers/TRM-142/FE142 Low cost small diameter torque sensor _June24_2015.pptx",
+    "bytes": 25627,
+    "w": 416,
+    "h": 349
+   },
+   {
+    "file": "assets/trm/trm-142/fig-04-fe142-low-cost-small-diameter--8131a698aa.png",
+    "src": "One Pagers/TRM-142/FE142 Low cost small diameter torque sensor _June24_2015.pptx",
+    "bytes": 25531,
+    "w": 486,
+    "h": 413
+   },
+   {
+    "file": "assets/trm/trm-142/fig-05-fe142-low-cost-small-diameter--b661ebdfcd.png",
+    "src": "One Pagers/TRM-142/FE142 Low cost small diameter torque sensor _June24_2015.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-142/fig-06-fe142-low-cost-small-diameter--89549fe787.png",
+    "src": "One Pagers/TRM-142/FE142 Low cost small diameter torque sensor _June24_2015.pptx",
+    "bytes": 21609,
+    "w": 502,
+    "h": 335
+   },
+   {
+    "file": "assets/trm/trm-142/fig-07-fe142-low-cost-small-diameter--f61fd4b5cd.png",
+    "src": "One Pagers/TRM-142/FE142 Low cost small diameter torque sensor _June24_2015.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-142/fig-08-fe142-low-cost-small-diameter--3d8889c871.png",
+    "src": "One Pagers/TRM-142/FE142 Low cost small diameter torque sensor _June24_2015.pptx",
+    "bytes": 15595,
+    "w": 497,
+    "h": 216
+   },
+   {
+    "file": "assets/trm/trm-142/fig-09-fe142-low-cost-small-diameter--93c4befd6c.png",
+    "src": "One Pagers/TRM-142/FE142 Low cost small diameter torque sensor _June24_2015.pptx",
+    "bytes": 12908,
+    "w": 384,
+    "h": 247
+   },
+   {
+    "file": "assets/trm/trm-142/fig-10-fe142-low-cost-small-diameter--47ab1def08.jpg",
+    "src": "One Pagers/TRM-142/FE142 Low cost small diameter torque sensor _June24_2015.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 10,
+  "files": [
+   "One Pagers/TRM-142/FE142 Low cost small diameter torque sensor _June24_2015.pptx"
+  ]
+ },
+ "trm/trm-143": {
+  "images": [
+   {
+    "file": "assets/trm/trm-143/fig-01-rcm-143-update-25fe15-b661ebdfcd.png",
+    "src": "One Pagers/TRM-143/RCM-143 Update 25FE15.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-143/fig-02-rcm-143-update-25fe15-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-143/RCM-143 Update 25FE15.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-143/fig-03-rcm-143-update-25fe15-47ab1def08.jpg",
+    "src": "One Pagers/TRM-143/RCM-143 Update 25FE15.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 3,
+  "files": [
+   "One Pagers/TRM-143/RCM-143 Update 25FE15.pptx",
+   "One Pagers/TRM-143/RCM-143 Update 22JN15.pptx",
+   "One Pagers/TRM-143/RCM-143 Update 25OCT15.pptx",
+   "One Pagers/TRM-143/RCM-143 Update 27JAN16.pptx"
+  ]
+ },
+ "trm/trm-152": {
+  "images": [
+   {
+    "file": "assets/trm/trm-152/fig-01-es152-reverse-battery-fet-remo-200ddae169.png",
+    "src": "One Pagers/TRM-152/ES152 reverse_battery_FET_removal.pptx",
+    "bytes": 379802,
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-152/fig-02-es152-reverse-battery-fet-remo-f46d66e8e3.jpeg",
+    "src": "One Pagers/TRM-152/ES152 reverse_battery_FET_removal.pptx",
+    "bytes": 53198,
+    "w": 720,
+    "h": 540
+   },
+   {
+    "file": "assets/trm/trm-152/fig-03-es152-reverse-battery-fet-remo-2cbfac3a81.png",
+    "src": "One Pagers/TRM-152/ES152 reverse_battery_FET_removal.pptx",
+    "bytes": 10572,
+    "w": 2400,
+    "h": 510
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 3,
+  "files": [
+   "One Pagers/TRM-152/ES152 reverse_battery_FET_removal.pptx"
+  ]
+ },
+ "trm/trm-155": {
+  "images": [],
+  "vectors_skipped": 0,
+  "candidates": 0,
+  "files": [
+   "One Pagers/TRM-155/SE155 - Inverter LoA Mitigation-HW_V2.ppt"
+  ]
+ },
+ "trm/trm-162": {
+  "images": [
+   {
+    "file": "assets/trm/trm-162/fig-01-product-team-fca-48-volt-proto-17764a6b80.jpg",
+    "src": "One Pagers/TRM-162/Product Team FCA 48 volt prototype request(12MR15).pptx",
+    "bytes": 462236,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-162/fig-02-product-team-fca-48-volt-proto-a90c0ab34b.jpg",
+    "src": "One Pagers/TRM-162/Product Team FCA 48 volt prototype request(12MR15).pptx",
+    "bytes": 221093,
+    "w": 1155,
+    "h": 733
+   },
+   {
+    "file": "assets/trm/trm-162/fig-03-product-team-fca-48-volt-proto-e326d934be.jpg",
+    "src": "One Pagers/TRM-162/Product Team FCA 48 volt prototype request(12MR15).pptx",
+    "bytes": 193134,
+    "w": 1440,
+    "h": 1080
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 3,
+  "files": [
+   "One Pagers/TRM-162/Product Team FCA 48 volt prototype request(12MR15).pptx"
+  ]
+ },
+ "trm/trm-166": {
+  "images": [
+   {
+    "file": "assets/trm/trm-166/fig-01-ccm-166-psa-2-stop-tooth-shaft-7562f67c07.png",
+    "src": "One Pagers/TRM-166/CCM 166 PSA 2 Stop Tooth Shafts.pptx",
+    "bytes": 620323,
+    "w": 1350,
+    "h": 878
+   },
+   {
+    "file": "assets/trm/trm-166/fig-02-ccm-166-psa-2-stop-tooth-shaft-b8d0996567.png",
+    "src": "One Pagers/TRM-166/CCM 166 PSA 2 Stop Tooth Shafts.pptx",
+    "bytes": 132246,
+    "w": 446,
+    "h": 775
+   },
+   {
+    "file": "assets/trm/trm-166/fig-03-ccm-166-psa-2-stop-tooth-shaft-7cd5760f5b.png",
+    "src": "One Pagers/TRM-166/CCM 166 PSA 2 Stop Tooth Shafts.pptx",
+    "bytes": 90437,
+    "w": 539,
+    "h": 828
+   },
+   {
+    "file": "assets/trm/trm-166/fig-04-ccm-166-psa-2-stop-tooth-shaft-b661ebdfcd.png",
+    "src": "One Pagers/TRM-166/CCM 166 PSA 2 Stop Tooth Shafts.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-166/fig-05-ccm-166-psa-2-stop-tooth-shaft-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-166/CCM 166 PSA 2 Stop Tooth Shafts.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-166/fig-06-ccm-166-psa-2-stop-tooth-shaft-47ab1def08.jpg",
+    "src": "One Pagers/TRM-166/CCM 166 PSA 2 Stop Tooth Shafts.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 6,
+  "files": [
+   "One Pagers/TRM-166/CCM 166 PSA 2 Stop Tooth Shafts.pptx"
+  ]
+ },
+ "trm/trm-171": {
+  "images": [
+   {
+    "file": "assets/trm/trm-171/fig-01-axial-sensor-new-stators-test--d17e011878.jpg",
+    "src": "One Pagers/TRM-171/Axial Sensor New Stators Test Summary.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-171/fig-02-axial-sensor-new-stators-test--6e702b5371.jpg",
+    "src": "One Pagers/TRM-171/Axial Sensor New Stators Test Summary.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-171/fig-03-sensor-cost-info-11my16-26c1844154.png",
+    "src": "One Pagers/TRM-171/Sensor Cost Info 11MY16.pptx",
+    "bytes": 186047,
+    "w": 689,
+    "h": 459
+   },
+   {
+    "file": "assets/trm/trm-171/fig-04-sensor-cost-info-11my16-fd95579a12.png",
+    "src": "One Pagers/TRM-171/Sensor Cost Info 11MY16.pptx",
+    "bytes": 163882,
+    "w": 559,
+    "h": 443
+   },
+   {
+    "file": "assets/trm/trm-171/fig-05-axial-sensor-new-stators-test--d01b9f689e.png",
+    "src": "One Pagers/TRM-171/Axial Sensor New Stators Test Summary.pptx",
+    "bytes": 78214,
+    "w": 641,
+    "h": 641
+   },
+   {
+    "file": "assets/trm/trm-171/fig-06-axial-sensor-new-stators-test--1c8e462acb.png",
+    "src": "One Pagers/TRM-171/Axial Sensor New Stators Test Summary.pptx",
+    "bytes": 53208,
+    "w": 783,
+    "h": 609
+   },
+   {
+    "file": "assets/trm/trm-171/fig-07-axial-sensor-new-stators-test--1a031b7788.png",
+    "src": "One Pagers/TRM-171/Axial Sensor New Stators Test Summary.pptx",
+    "bytes": 51998,
+    "w": 728,
+    "h": 646
+   },
+   {
+    "file": "assets/trm/trm-171/fig-08-axial-sensor-new-stators-test--9eaabbf8af.png",
+    "src": "One Pagers/TRM-171/Axial Sensor New Stators Test Summary.pptx",
+    "bytes": 32889,
+    "w": 752,
+    "h": 452
+   },
+   {
+    "file": "assets/trm/trm-171/fig-09-axial-sensor-new-stators-test--41749743b6.png",
+    "src": "One Pagers/TRM-171/Axial Sensor New Stators Test Summary.pptx",
+    "bytes": 31022,
+    "w": 752,
+    "h": 452
+   },
+   {
+    "file": "assets/trm/trm-171/fig-10-axial-sensor-new-stators-test--9463b0a9bc.png",
+    "src": "One Pagers/TRM-171/Axial Sensor New Stators Test Summary.pptx",
+    "bytes": 30082,
+    "w": 751,
+    "h": 452
+   },
+   {
+    "file": "assets/trm/trm-171/fig-11-axial-sensor-new-stators-test--a612790573.png",
+    "src": "One Pagers/TRM-171/Axial Sensor New Stators Test Summary.pptx",
+    "bytes": 29703,
+    "w": 752,
+    "h": 452
+   },
+   {
+    "file": "assets/trm/trm-171/fig-12-axial-sensor-new-stators-test--4760cdf9da.jpeg",
+    "src": "One Pagers/TRM-171/Axial Sensor New Stators Test Summary.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 12,
+  "files": [
+   "One Pagers/TRM-171/Axial Sensor New Stators Test Summary.pptx",
+   "One Pagers/TRM-171/Sensor Cost Info 11MY16.pptx"
+  ]
+ },
+ "trm/trm-174": {
+  "images": [
+   {
+    "file": "assets/trm/trm-174/fig-01-ccm-174-zero-lash-spur-gear-b488361b63.png",
+    "src": "One Pagers/TRM-174/CCM-174 Zero-Lash Spur Gear.pptx",
+    "bytes": 103831,
+    "w": 816,
+    "h": 715
+   },
+   {
+    "file": "assets/trm/trm-174/fig-02-ccm-174-zero-lash-spur-gear-69f880efac.png",
+    "src": "One Pagers/TRM-174/CCM-174 Zero-Lash Spur Gear.pptx",
+    "bytes": 28222,
+    "w": 846,
+    "h": 700
+   },
+   {
+    "file": "assets/trm/trm-174/fig-03-ccm-174-zero-lash-spur-gear-b661ebdfcd.png",
+    "src": "One Pagers/TRM-174/CCM-174 Zero-Lash Spur Gear.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-174/fig-04-ccm-174-zero-lash-spur-gear-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-174/CCM-174 Zero-Lash Spur Gear.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-174/fig-05-ccm-174-zero-lash-spur-gear-47ab1def08.jpg",
+    "src": "One Pagers/TRM-174/CCM-174 Zero-Lash Spur Gear.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 1,
+  "candidates": 5,
+  "files": [
+   "One Pagers/TRM-174/CCM-174 Zero-Lash Spur Gear.pptx"
+  ]
+ },
+ "trm/trm-175": {
+  "images": [
+   {
+    "file": "assets/trm/trm-175/fig-01-sensor-cost-info-11my16-d17e011878.jpg",
+    "src": "One Pagers/TRM-175/Sensor Cost Info 11MY16.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-175/fig-02-sensor-cost-info-11my16-6e702b5371.jpg",
+    "src": "One Pagers/TRM-175/Sensor Cost Info 11MY16.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-175/fig-03-sensor-cost-info-11my16-aec578024b.png",
+    "src": "One Pagers/TRM-175/Sensor Cost Info 11MY16.pptx",
+    "bytes": 201204,
+    "w": 388,
+    "h": 731
+   },
+   {
+    "file": "assets/trm/trm-175/fig-04-sensor-cost-info-11my16-4760cdf9da.jpeg",
+    "src": "One Pagers/TRM-175/Sensor Cost Info 11MY16.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 4,
+  "files": [
+   "One Pagers/TRM-175/Sensor Cost Info 11MY16.pptx"
+  ]
+ },
+ "trm/trm-177": {
+  "images": [
+   {
+    "file": "assets/trm/trm-177/fig-01-motor-friction-update-to-tech--f46d66e8e3.jpeg",
+    "src": "One Pagers/TRM-177/Motor Friction Update to Tech Roadmap.pptx",
+    "bytes": 53198,
+    "w": 720,
+    "h": 540
+   },
+   {
+    "file": "assets/trm/trm-177/fig-02-motor-friction-update-to-tech--fa6d77b4e0.png",
+    "src": "One Pagers/TRM-177/Motor Friction Update to Tech Roadmap.pptx",
+    "bytes": 39488,
+    "w": 956,
+    "h": 436
+   },
+   {
+    "file": "assets/trm/trm-177/fig-03-motor-friction-update-to-tech--cb551eadfa.png",
+    "src": "One Pagers/TRM-177/Motor Friction Update to Tech Roadmap.pptx",
+    "bytes": 19510,
+    "w": 752,
+    "h": 452
+   }
+  ],
+  "vectors_skipped": 4,
+  "candidates": 3,
+  "files": [
+   "One Pagers/TRM-177/Motor Friction Update to Tech Roadmap.pptx"
+  ]
+ },
+ "trm/trm-203": {
+  "images": [
+   {
+    "file": "assets/trm/trm-203/fig-01-rcm-203-bootprotection-04fe16-94ec972c42.png",
+    "src": "One Pagers/TRM-203/RCM 203 BootProtection 04FE16.pptx",
+    "bytes": 1263270,
+    "w": 548,
+    "h": 924
+   },
+   {
+    "file": "assets/trm/trm-203/fig-02-rcm-203-bootprotection-04fe16-d17e011878.jpg",
+    "src": "One Pagers/TRM-203/RCM 203 BootProtection 04FE16.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-203/fig-03-rcm-203-bootprotection-04fe16-6e702b5371.jpg",
+    "src": "One Pagers/TRM-203/RCM 203 BootProtection 04FE16.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/trm/trm-203/fig-04-rcm-203-bootprotection-04fe16-4760cdf9da.jpeg",
+    "src": "One Pagers/TRM-203/RCM 203 BootProtection 04FE16.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 4,
+  "files": [
+   "One Pagers/TRM-203/RCM 203 BootProtection 04FE16.pptx"
+  ]
+ },
+ "trm/trm-204": {
+  "images": [
+   {
+    "file": "assets/trm/trm-204/fig-01-over-molded-plastic-pulley-02s-a4cfdb8805.png",
+    "src": "One Pagers/TRM-204/Over-molded Plastic Pulley, 02SE15.pptx",
+    "bytes": 183789,
+    "w": 753,
+    "h": 547
+   },
+   {
+    "file": "assets/trm/trm-204/fig-02-over-molded-plastic-pulley-02s-b661ebdfcd.png",
+    "src": "One Pagers/TRM-204/Over-molded Plastic Pulley, 02SE15.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/trm/trm-204/fig-03-over-molded-plastic-pulley-02s-f08e84ff33.png",
+    "src": "One Pagers/TRM-204/Over-molded Plastic Pulley, 02SE15.pptx",
+    "bytes": 20601,
+    "w": 512,
+    "h": 476
+   },
+   {
+    "file": "assets/trm/trm-204/fig-04-over-molded-plastic-pulley-02s-f61fd4b5cd.png",
+    "src": "One Pagers/TRM-204/Over-molded Plastic Pulley, 02SE15.pptx",
+    "bytes": 20572,
+    "w": 375,
+    "h": 107
+   },
+   {
+    "file": "assets/trm/trm-204/fig-05-over-molded-plastic-pulley-02s-47ab1def08.jpg",
+    "src": "One Pagers/TRM-204/Over-molded Plastic Pulley, 02SE15.pptx",
+    "bytes": 9032,
+    "w": 720,
+    "h": 540
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 5,
+  "files": [
+   "One Pagers/TRM-204/Over-molded Plastic Pulley, 02SE15.pptx"
+  ]
+ },
+ "digital-motor-position/digital-handwheel-19mr14": {
+  "images": [
+   {
+    "file": "assets/digital-motor-position/digital-handwheel-19mr14/fig-01-digital-handwheel-position-sen-d17e011878.jpg",
+    "src": "Digital Motor Position/Digital Handwheel Position Sensor - 19MR14.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/digital-motor-position/digital-handwheel-19mr14/fig-02-digital-handwheel-position-sen-6e702b5371.jpg",
+    "src": "Digital Motor Position/Digital Handwheel Position Sensor - 19MR14.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/digital-motor-position/digital-handwheel-19mr14/fig-03-digital-handwheel-position-sen-4760cdf9da.jpeg",
+    "src": "Digital Motor Position/Digital Handwheel Position Sensor - 19MR14.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 3,
+  "files": [
+   "Digital Motor Position/Digital Handwheel Position Sensor - 19MR14.pptx"
+  ]
+ },
+ "digital-motor-position/digital-handwheel-26mr14": {
+  "images": [
+   {
+    "file": "assets/digital-motor-position/digital-handwheel-26mr14/fig-01-digital-handwheel-position-sen-d17e011878.jpg",
+    "src": "Digital Motor Position/Digital Handwheel Position Sensor - 26MR14 a.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/digital-motor-position/digital-handwheel-26mr14/fig-02-digital-handwheel-position-sen-3edfb8af46.png",
+    "src": "Digital Motor Position/Digital Handwheel Position Sensor - 26MR14 a.pptx",
+    "bytes": 230203,
+    "w": 1210,
+    "h": 546
+   },
+   {
+    "file": "assets/digital-motor-position/digital-handwheel-26mr14/fig-03-digital-handwheel-position-sen-6e702b5371.jpg",
+    "src": "Digital Motor Position/Digital Handwheel Position Sensor - 26MR14 a.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/digital-motor-position/digital-handwheel-26mr14/fig-04-digital-handwheel-position-sen-4760cdf9da.jpeg",
+    "src": "Digital Motor Position/Digital Handwheel Position Sensor - 26MR14 a.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 4,
+  "files": [
+   "Digital Motor Position/Digital Handwheel Position Sensor - 26MR14 a.pptx"
+  ]
+ },
+ "digital-motor-position/probe-housing-16ap14": {
+  "images": [
+   {
+    "file": "assets/digital-motor-position/probe-housing-16ap14/fig-01-probe-housing-asm-signal-issue-3edfb8af46.png",
+    "src": "Digital Motor Position/Probe Housing Asm Signal Issue 16AP14.pptx",
+    "bytes": 230203,
+    "w": 1210,
+    "h": 546
+   },
+   {
+    "file": "assets/digital-motor-position/probe-housing-16ap14/fig-02-probe-housing-asm-signal-issue-f46d66e8e3.jpeg",
+    "src": "Digital Motor Position/Probe Housing Asm Signal Issue 16AP14.pptx",
+    "bytes": 53198,
+    "w": 720,
+    "h": 540
+   },
+   {
+    "file": "assets/digital-motor-position/probe-housing-16ap14/fig-03-probe-housing-asm-signal-issue-4defe7ee76.jpeg",
+    "src": "Digital Motor Position/Probe Housing Asm Signal Issue 16AP14.pptx",
+    "bytes": 45728,
+    "w": 720,
+    "h": 540
+   },
+   {
+    "file": "assets/digital-motor-position/probe-housing-16ap14/fig-04-probe-housing-asm-signal-issue-259cf10b10.png",
+    "src": "Digital Motor Position/Probe Housing Asm Signal Issue 16AP14.pptx",
+    "bytes": 29967,
+    "w": 615,
+    "h": 175
+   },
+   {
+    "file": "assets/digital-motor-position/probe-housing-16ap14/fig-05-probe-housing-asm-signal-issue-29fb8fcf44.png",
+    "src": "Digital Motor Position/Probe Housing Asm Signal Issue 16AP14.pptx",
+    "bytes": 27031,
+    "w": 421,
+    "h": 120
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 5,
+  "files": [
+   "Digital Motor Position/Probe Housing Asm Signal Issue 16AP14.pptx"
+  ]
+ },
+ "digital-motor-position/single-to-dual-spur-gear": {
+  "images": [
+   {
+    "file": "assets/digital-motor-position/single-to-dual-spur-gear/fig-01-single-to-dual-spur-gear-09ap1-dc56fc8d1c.png",
+    "src": "Digital Motor Position/Single to Dual spur gear 09AP14a.pptx",
+    "bytes": 343750,
+    "w": 1075,
+    "h": 780
+   },
+   {
+    "file": "assets/digital-motor-position/single-to-dual-spur-gear/fig-02-single-to-dual-spur-gear-09ap1-3edfb8af46.png",
+    "src": "Digital Motor Position/Single to Dual spur gear 09AP14a.pptx",
+    "bytes": 230203,
+    "w": 1210,
+    "h": 546
+   },
+   {
+    "file": "assets/digital-motor-position/single-to-dual-spur-gear/fig-03-single-to-dual-spur-gear-09ap1-758c5cf035.jpeg",
+    "src": "Digital Motor Position/Single to Dual spur gear 09AP14a.pptx",
+    "bytes": 217527,
+    "w": 1765,
+    "h": 1180
+   },
+   {
+    "file": "assets/digital-motor-position/single-to-dual-spur-gear/fig-04-single-to-dual-spur-gear-09ap1-bbbd6507f8.jpeg",
+    "src": "Digital Motor Position/Single to Dual spur gear 09AP14a.pptx",
+    "bytes": 179666,
+    "w": 1709,
+    "h": 1143
+   },
+   {
+    "file": "assets/digital-motor-position/single-to-dual-spur-gear/fig-05-single-to-dual-spur-gear-09ap1-6d7a3d8f34.jpeg",
+    "src": "Digital Motor Position/Single to Dual spur gear 09AP14a.pptx",
+    "bytes": 117158,
+    "w": 1418,
+    "h": 676
+   },
+   {
+    "file": "assets/digital-motor-position/single-to-dual-spur-gear/fig-06-single-to-dual-spur-gear-09ap1-06dc80f922.jpeg",
+    "src": "Digital Motor Position/Single to Dual spur gear 09AP14a.pptx",
+    "bytes": 85898,
+    "w": 1117,
+    "h": 584
+   },
+   {
+    "file": "assets/digital-motor-position/single-to-dual-spur-gear/fig-07-single-to-dual-spur-gear-09ap1-f46d66e8e3.jpeg",
+    "src": "Digital Motor Position/Single to Dual spur gear 09AP14a.pptx",
+    "bytes": 53198,
+    "w": 720,
+    "h": 540
+   },
+   {
+    "file": "assets/digital-motor-position/single-to-dual-spur-gear/fig-08-single-to-dual-spur-gear-09ap1-4defe7ee76.jpeg",
+    "src": "Digital Motor Position/Single to Dual spur gear 09AP14a.pptx",
+    "bytes": 45728,
+    "w": 720,
+    "h": 540
+   },
+   {
+    "file": "assets/digital-motor-position/single-to-dual-spur-gear/fig-09-single-to-dual-spur-gear-09ap1-259cf10b10.png",
+    "src": "Digital Motor Position/Single to Dual spur gear 09AP14a.pptx",
+    "bytes": 29967,
+    "w": 615,
+    "h": 175
+   },
+   {
+    "file": "assets/digital-motor-position/single-to-dual-spur-gear/fig-10-single-to-dual-spur-gear-09ap1-29fb8fcf44.png",
+    "src": "Digital Motor Position/Single to Dual spur gear 09AP14a.pptx",
+    "bytes": 27031,
+    "w": 421,
+    "h": 120
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 11,
+  "files": [
+   "Digital Motor Position/Single to Dual spur gear 09AP14a.pptx"
+  ]
+ },
+ "low-output-ceps/index": {
+  "images": [
+   {
+    "file": "assets/low-output-ceps/lo-ceps/fig-01-lo-ceps-for-trm-meeting-160516-2c7d922446.jpg",
+    "src": "DisruptiveTechnology/Low Output CEPS/LO CEPS for TRM meeting (160516).pptx",
+    "bytes": 299994,
+    "w": 1718,
+    "h": 956
+   },
+   {
+    "file": "assets/low-output-ceps/lo-ceps/fig-02-lo-ceps-for-trm-meeting-160516-d17e011878.jpg",
+    "src": "DisruptiveTechnology/Low Output CEPS/LO CEPS for TRM meeting (160516).pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/low-output-ceps/lo-ceps/fig-03-lo-ceps-for-trm-meeting-160516-6e702b5371.jpg",
+    "src": "DisruptiveTechnology/Low Output CEPS/LO CEPS for TRM meeting (160516).pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/low-output-ceps/lo-ceps/fig-04-lo-ceps-for-trm-meeting-160516-cf8cf121c3.jpg",
+    "src": "DisruptiveTechnology/Low Output CEPS/LO CEPS for TRM meeting (160516).pptx",
+    "bytes": 199979,
+    "w": 941,
+    "h": 643
+   },
+   {
+    "file": "assets/low-output-ceps/lo-ceps/fig-05-lo-ceps-for-trm-meeting-160516-1e0e8d2c63.jpg",
+    "src": "DisruptiveTechnology/Low Output CEPS/LO CEPS for TRM meeting (160516).pptx",
+    "bytes": 196203,
+    "w": 780,
+    "h": 959
+   },
+   {
+    "file": "assets/low-output-ceps/lo-ceps/fig-06-lo-ceps-for-trm-meeting-160516-ed28960163.png",
+    "src": "DisruptiveTechnology/Low Output CEPS/LO CEPS for TRM meeting (160516).pptx",
+    "bytes": 100664,
+    "w": 688,
+    "h": 522
+   },
+   {
+    "file": "assets/low-output-ceps/lo-ceps/fig-07-lo-ceps-for-trm-meeting-160516-ebb965d630.jpeg",
+    "src": "DisruptiveTechnology/Low Output CEPS/LO CEPS for TRM meeting (160516).pptx",
+    "bytes": 72637,
+    "w": 1336,
+    "h": 743
+   },
+   {
+    "file": "assets/low-output-ceps/lo-ceps/fig-08-lo-ceps-for-trm-meeting-160516-1ac05560eb.png",
+    "src": "DisruptiveTechnology/Low Output CEPS/LO CEPS for TRM meeting (160516).pptx",
+    "bytes": 69789,
+    "w": 641,
+    "h": 431
+   },
+   {
+    "file": "assets/low-output-ceps/lo-ceps/fig-09-lo-ceps-for-trm-meeting-160516-5b58894e8f.png",
+    "src": "DisruptiveTechnology/Low Output CEPS/LO CEPS for TRM meeting (160516).pptx",
+    "bytes": 68353,
+    "w": 558,
+    "h": 462
+   },
+   {
+    "file": "assets/low-output-ceps/lo-ceps/fig-10-lo-ceps-for-trm-meeting-160516-eb2d52d176.jpeg",
+    "src": "DisruptiveTechnology/Low Output CEPS/LO CEPS for TRM meeting (160516).pptx",
+    "bytes": 63804,
+    "w": 969,
+    "h": 539
+   },
+   {
+    "file": "assets/low-output-ceps/lo-ceps/fig-11-lo-ceps-for-trm-meeting-160516-aecba5b9cd.png",
+    "src": "DisruptiveTechnology/Low Output CEPS/LO CEPS for TRM meeting (160516).pptx",
+    "bytes": 50959,
+    "w": 240,
+    "h": 641
+   },
+   {
+    "file": "assets/low-output-ceps/lo-ceps/fig-12-lo-ceps-for-trm-meeting-160516-6dcf6f5012.png",
+    "src": "DisruptiveTechnology/Low Output CEPS/LO CEPS for TRM meeting (160516).pptx",
+    "bytes": 44859,
+    "w": 245,
+    "h": 580
+   }
+  ],
+  "vectors_skipped": 5,
+  "candidates": 23,
+  "files": [
+   "DisruptiveTechnology/Low Output CEPS/LO CEPS for TRM meeting (160516).pptx"
+  ]
+ },
+ "mechanical-engineering/vr-rack": {
+  "images": [
+   {
+    "file": "assets/mechanical-engineering/vr-rack/fig-01-copy-of-vr-rack-27ja16-9f35f3ee35.png",
+    "src": "M.E objectives/Copy of VR Rack 27JA16.pptx",
+    "bytes": 81508,
+    "w": 323,
+    "h": 273
+   },
+   {
+    "file": "assets/mechanical-engineering/vr-rack/fig-02-copy-of-vr-rack-27ja16-dc3b842ed2.png",
+    "src": "M.E objectives/Copy of VR Rack 27JA16.pptx",
+    "bytes": 75856,
+    "w": 140,
+    "h": 248
+   },
+   {
+    "file": "assets/mechanical-engineering/vr-rack/fig-03-copy-of-vr-rack-27ja16-16b1a9f13f.png",
+    "src": "M.E objectives/Copy of VR Rack 27JA16.pptx",
+    "bytes": 74510,
+    "w": 1197,
+    "h": 523
+   },
+   {
+    "file": "assets/mechanical-engineering/vr-rack/fig-04-copy-of-vr-rack-27ja16-94c5b76351.png",
+    "src": "M.E objectives/Copy of VR Rack 27JA16.pptx",
+    "bytes": 54359,
+    "w": 425,
+    "h": 388
+   },
+   {
+    "file": "assets/mechanical-engineering/vr-rack/fig-05-copy-of-vr-rack-27ja16-c72f1b9557.png",
+    "src": "M.E objectives/Copy of VR Rack 27JA16.pptx",
+    "bytes": 25002,
+    "w": 637,
+    "h": 415
+   },
+   {
+    "file": "assets/mechanical-engineering/vr-rack/fig-06-copy-of-vr-rack-27ja16-521d49cc04.png",
+    "src": "M.E objectives/Copy of VR Rack 27JA16.pptx",
+    "bytes": 15986,
+    "w": 2266,
+    "h": 441
+   },
+   {
+    "file": "assets/mechanical-engineering/vr-rack/fig-07-copy-of-vr-rack-27ja16-a6ef9f533d.png",
+    "src": "M.E objectives/Copy of VR Rack 27JA16.pptx",
+    "bytes": 15872,
+    "w": 2270,
+    "h": 440
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 7,
+  "files": [
+   "M.E objectives/Copy of VR Rack 27JA16.pptx"
+  ]
+ },
+ "mechanical-engineering/bmw-rack": {
+  "images": [
+   {
+    "file": "assets/mechanical-engineering/bmw-rack/fig-01-cut-and-coin-bmw-rack-19no14-bd7ea9d5e1.jpeg",
+    "src": "M.E objectives/cut and coin BMW rack 19NO14.pptx",
+    "bytes": 159885,
+    "w": 1111,
+    "h": 586
+   },
+   {
+    "file": "assets/mechanical-engineering/bmw-rack/fig-02-cut-and-coin-bmw-rack-19no14-b64c8c3907.png",
+    "src": "M.E objectives/cut and coin BMW rack 19NO14.pptx",
+    "bytes": 113683,
+    "w": 565,
+    "h": 277
+   },
+   {
+    "file": "assets/mechanical-engineering/bmw-rack/fig-03-cut-and-coin-bmw-rack-19no14-2e5cdfb791.png",
+    "src": "M.E objectives/cut and coin BMW rack 19NO14.pptx",
+    "bytes": 71171,
+    "w": 644,
+    "h": 519
+   },
+   {
+    "file": "assets/mechanical-engineering/bmw-rack/fig-04-cut-and-coin-bmw-rack-19no14-f46d66e8e3.jpeg",
+    "src": "M.E objectives/cut and coin BMW rack 19NO14.pptx",
+    "bytes": 53198,
+    "w": 720,
+    "h": 540
+   },
+   {
+    "file": "assets/mechanical-engineering/bmw-rack/fig-05-cut-and-coin-bmw-rack-19no14-ed9921d4aa.png",
+    "src": "M.E objectives/cut and coin BMW rack 19NO14.pptx",
+    "bytes": 30719,
+    "w": 436,
+    "h": 95
+   },
+   {
+    "file": "assets/mechanical-engineering/bmw-rack/fig-06-cut-and-coin-bmw-rack-19no14-c7a38c691c.png",
+    "src": "M.E objectives/cut and coin BMW rack 19NO14.pptx",
+    "bytes": 26538,
+    "w": 443,
+    "h": 121
+   },
+   {
+    "file": "assets/mechanical-engineering/bmw-rack/fig-07-cut-and-coin-bmw-rack-19no14-51b0692531.png",
+    "src": "M.E objectives/cut and coin BMW rack 19NO14.pptx",
+    "bytes": 12254,
+    "w": 425,
+    "h": 94
+   }
+  ],
+  "vectors_skipped": 1,
+  "candidates": 7,
+  "files": [
+   "M.E objectives/cut and coin BMW rack 19NO14.pptx"
+  ]
+ },
+ "mechanical-engineering/ball-nuts": {
+  "images": [
+   {
+    "file": "assets/mechanical-engineering/ball-nuts/fig-01-hard-turned-ball-nuts-19no14-ddd422c1c5.png",
+    "src": "M.E objectives/hard turned ball nuts 19NO14.pptx",
+    "bytes": 509474,
+    "w": 1251,
+    "h": 938
+   },
+   {
+    "file": "assets/mechanical-engineering/ball-nuts/fig-02-hard-turned-ball-nuts-19no14-d17e011878.jpg",
+    "src": "M.E objectives/hard turned ball nuts 19NO14.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/mechanical-engineering/ball-nuts/fig-03-hard-turned-ball-nuts-19no14-6e702b5371.jpg",
+    "src": "M.E objectives/hard turned ball nuts 19NO14.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/mechanical-engineering/ball-nuts/fig-04-hard-turned-ball-nuts-19no14-855f8d1025.jpeg",
+    "src": "M.E objectives/hard turned ball nuts 19NO14.pptx",
+    "bytes": 138823,
+    "w": 889,
+    "h": 667
+   },
+   {
+    "file": "assets/mechanical-engineering/ball-nuts/fig-05-hard-turned-ball-nuts-19no14-a0050fb992.jpeg",
+    "src": "M.E objectives/hard turned ball nuts 19NO14.pptx",
+    "bytes": 130937,
+    "w": 884,
+    "h": 708
+   },
+   {
+    "file": "assets/mechanical-engineering/ball-nuts/fig-06-hard-turned-ball-nuts-19no14-4760cdf9da.jpeg",
+    "src": "M.E objectives/hard turned ball nuts 19NO14.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   },
+   {
+    "file": "assets/mechanical-engineering/ball-nuts/fig-07-hard-turned-ball-nuts-19no14-11b7fc9a9a.png",
+    "src": "M.E objectives/hard turned ball nuts 19NO14.pptx",
+    "bytes": 19507,
+    "w": 1352,
+    "h": 503
+   }
+  ],
+  "vectors_skipped": 2,
+  "candidates": 7,
+  "files": [
+   "M.E objectives/hard turned ball nuts 19NO14.pptx"
+  ]
+ },
+ "mechanical-engineering/pinion-skiving": {
+  "images": [
+   {
+    "file": "assets/mechanical-engineering/pinion-skiving/fig-01-pinion-skiving-modeling-53fe41f850.png",
+    "src": "M.E objectives/pinion skiving modeling.pptx",
+    "bytes": 334980,
+    "w": 1039,
+    "h": 539
+   },
+   {
+    "file": "assets/mechanical-engineering/pinion-skiving/fig-02-pinion-skiving-modeling-b28f0bb647.png",
+    "src": "M.E objectives/pinion skiving modeling.pptx",
+    "bytes": 318026,
+    "w": 1039,
+    "h": 539
+   },
+   {
+    "file": "assets/mechanical-engineering/pinion-skiving/fig-03-pinion-skiving-modeling-d17e011878.jpg",
+    "src": "M.E objectives/pinion skiving modeling.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/mechanical-engineering/pinion-skiving/fig-04-pinion-skiving-modeling-6e702b5371.jpg",
+    "src": "M.E objectives/pinion skiving modeling.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/mechanical-engineering/pinion-skiving/fig-05-pinion-skiving-modeling-54fb4e646a.jpeg",
+    "src": "M.E objectives/pinion skiving modeling.pptx",
+    "bytes": 126322,
+    "w": 1027,
+    "h": 577
+   },
+   {
+    "file": "assets/mechanical-engineering/pinion-skiving/fig-06-pinion-skiving-modeling-9c47099dc1.jpeg",
+    "src": "M.E objectives/pinion skiving modeling.pptx",
+    "bytes": 60717,
+    "w": 935,
+    "h": 507
+   },
+   {
+    "file": "assets/mechanical-engineering/pinion-skiving/fig-07-pinion-skiving-modeling-f44e550b67.jpeg",
+    "src": "M.E objectives/pinion skiving modeling.pptx",
+    "bytes": 45714,
+    "w": 788,
+    "h": 434
+   },
+   {
+    "file": "assets/mechanical-engineering/pinion-skiving/fig-08-pinion-skiving-modeling-4760cdf9da.jpeg",
+    "src": "M.E objectives/pinion skiving modeling.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 1,
+  "candidates": 8,
+  "files": [
+   "M.E objectives/pinion skiving modeling.pptx"
+  ]
+ },
+ "mechanical-engineering/stop-tooth-spline": {
+  "images": [
+   {
+    "file": "assets/mechanical-engineering/stop-tooth-spline/fig-01-stop-tooth-sensor-spline-shapi-d17e011878.jpg",
+    "src": "M.E objectives/stop tooth - sensor spline shaping.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/mechanical-engineering/stop-tooth-spline/fig-02-stop-tooth-sensor-spline-shapi-6e702b5371.jpg",
+    "src": "M.E objectives/stop tooth - sensor spline shaping.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/mechanical-engineering/stop-tooth-spline/fig-03-stop-tooth-sensor-spline-shapi-ec2cb43470.jpeg",
+    "src": "M.E objectives/stop tooth - sensor spline shaping.pptx",
+    "bytes": 42259,
+    "w": 1235,
+    "h": 660
+   },
+   {
+    "file": "assets/mechanical-engineering/stop-tooth-spline/fig-04-stop-tooth-sensor-spline-shapi-fa0fa7ed1c.jpeg",
+    "src": "M.E objectives/stop tooth - sensor spline shaping.pptx",
+    "bytes": 41846,
+    "w": 1056,
+    "h": 565
+   },
+   {
+    "file": "assets/mechanical-engineering/stop-tooth-spline/fig-05-stop-tooth-sensor-spline-shapi-d496810271.jpeg",
+    "src": "M.E objectives/stop tooth - sensor spline shaping.pptx",
+    "bytes": 37617,
+    "w": 921,
+    "h": 491
+   },
+   {
+    "file": "assets/mechanical-engineering/stop-tooth-spline/fig-06-stop-tooth-sensor-spline-shapi-4760cdf9da.jpeg",
+    "src": "M.E objectives/stop tooth - sensor spline shaping.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 6,
+  "files": [
+   "M.E objectives/stop tooth - sensor spline shaping.pptx"
+  ]
+ },
+ "one-pagers/systems-engineering": {
+  "images": [
+   {
+    "file": "assets/one-pagers/systems-engineering/fig-01-sexx-systems-engineering-proce-d17e011878.jpeg",
+    "src": "One Pagers/SExx - Systems Engineering Process_Wittig.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/one-pagers/systems-engineering/fig-02-sexx-systems-engineering-proce-6ba20e46be.png",
+    "src": "One Pagers/SExx - Systems Engineering Process_Wittig.pptx",
+    "bytes": 157487,
+    "w": 1273,
+    "h": 791
+   },
+   {
+    "file": "assets/one-pagers/systems-engineering/fig-03-sexx-systems-engineering-proce-6e94f63b6e.jpeg",
+    "src": "One Pagers/SExx - Systems Engineering Process_Wittig.pptx",
+    "bytes": 34386,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/one-pagers/systems-engineering/fig-04-sexx-systems-engineering-proce-4760cdf9da.jpeg",
+    "src": "One Pagers/SExx - Systems Engineering Process_Wittig.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   }
+  ],
+  "vectors_skipped": 1,
+  "candidates": 4,
+  "files": [
+   "One Pagers/SExx - Systems Engineering Process_Wittig.pptx"
+  ]
+ },
+ "one-pagers/core-mechanical": {
+  "images": [
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-01-core-mechanical-high-risk-2-pa-40bfffacf4.png",
+    "src": "One Pagers/Core Mechanical High Risk 2 pager (CCM-78 Spring Isolators).pptx",
+    "bytes": 361438,
+    "w": 944,
+    "h": 738
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-02-internally-mfg-integrated-ball-d17e011878.jpg",
+    "src": "One Pagers/Internally MFG Integrated Ball Nut Bearing 7_17_15.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-03-internally-mfg-integrated-ball-6e702b5371.jpg",
+    "src": "One Pagers/Internally MFG Integrated Ball Nut Bearing 7_17_15.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-04-core-mechanical-high-risk-2-pa-9ddb13a35c.png",
+    "src": "One Pagers/Core Mechanical High Risk 2 pager (CCM-78 Spring Isolators).pptx",
+    "bytes": 174285,
+    "w": 1689,
+    "h": 1059
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-05-core-mechanical-high-risk-2-pa-25253b8688.png",
+    "src": "One Pagers/Core Mechanical High Risk 2 pager RCM 109 Non-delashe pinion.pptx",
+    "bytes": 111326,
+    "w": 1661,
+    "h": 888
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-06-core-mechanical-high-risk-2-pa-dfad6cb564.png",
+    "src": "One Pagers/Core Mechanical High Risk 2 pager RCM 109 Non-delashe pinion.pptx",
+    "bytes": 93270,
+    "w": 535,
+    "h": 781
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-07-core-mechanical-high-risk-2-pa-d5b394e388.png",
+    "src": "One Pagers/Core Mechanical High Risk 2 pager RCM 109 Non-delashe pinion.pptx",
+    "bytes": 92603,
+    "w": 1662,
+    "h": 887
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-08-core-mechanical-high-risk-2-pa-e07ff336e8.png",
+    "src": "One Pagers/Core Mechanical High Risk 2 pager RCM 109 Non-delashe pinion.pptx",
+    "bytes": 86225,
+    "w": 1662,
+    "h": 889
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-09-core-mechanical-high-risk-2-pa-e2647a344f.png",
+    "src": "One Pagers/Core Mechanical High Risk 2 pager RCM 109 Non-delashe pinion.pptx",
+    "bytes": 85098,
+    "w": 1664,
+    "h": 890
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-10-internally-mfg-integrated-ball-140aee79dc.png",
+    "src": "One Pagers/Internally MFG Integrated Ball Nut Bearing 7_17_15.pptx",
+    "bytes": 78193,
+    "w": 273,
+    "h": 264
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-11-internally-mfg-integrated-ball-921494bd9a.png",
+    "src": "One Pagers/Internally MFG Integrated Ball Nut Bearing 7_17_15.pptx",
+    "bytes": 70833,
+    "w": 465,
+    "h": 492
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-12-internally-mfg-integrated-ball-dd02e43495.png",
+    "src": "One Pagers/Internally MFG Integrated Ball Nut Bearing 7_17_15.pptx",
+    "bytes": 62706,
+    "w": 532,
+    "h": 478
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-13-core-mechanical-high-risk-2-pa-a5295081b2.png",
+    "src": "One Pagers/Core Mechanical High Risk 2 pager.pptx",
+    "bytes": 60255,
+    "w": 310,
+    "h": 247
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-14-core-mechanical-high-risk-2-pa-24700adec6.png",
+    "src": "One Pagers/Core Mechanical High Risk 2 pager.pptx",
+    "bytes": 48816,
+    "w": 284,
+    "h": 221
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-15-internally-mfg-integrated-ball-4760cdf9da.jpeg",
+    "src": "One Pagers/Internally MFG Integrated Ball Nut Bearing 7_17_15.pptx",
+    "bytes": 26312,
+    "w": 630,
+    "h": 122
+   },
+   {
+    "file": "assets/one-pagers/core-mechanical/fig-16-ccm-xxx-assist-mech-friction-r-b661ebdfcd.png",
+    "src": "One Pagers/CCM-XXX Assist Mech Friction Reduction.pptx",
+    "bytes": 21756,
+    "w": 388,
+    "h": 111
+   }
+  ],
+  "vectors_skipped": 1,
+  "candidates": 19,
+  "files": [
+   "One Pagers/CCM-XXX Assist Mech Friction Reduction.pptx",
+   "One Pagers/Core Mechanical High Risk 2 pager (CCM-78 Spring Isolators).pptx",
+   "One Pagers/Core Mechanical High Risk 2 pager RCM 109 Non-delashe pinion.pptx",
+   "One Pagers/Core Mechanical High Risk 2 pager.pptx",
+   "One Pagers/Internally MFG Integrated Ball Nut Bearing 7_17_15.pptx"
+  ]
+ },
+ "one-pagers/sensors-torque": {
+  "images": [
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-01-rough-rolled-hall-sensor-teeth-d7d3b0b65f.png",
+    "src": "One Pagers/Rough rolled hall sensor teeth.pptx",
+    "bytes": 707482,
+    "w": 1680,
+    "h": 1050
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-02-off-axis-sensor-mtg-140416-d17e011878.jpg",
+    "src": "One Pagers/Off-axis Sensor mtg_140416.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-03-probe-housing-asm-signal-issue-3edfb8af46.png",
+    "src": "One Pagers/Probe Housing Asm Signal Issue 23AP14.pptx",
+    "bytes": 230203,
+    "w": 1210,
+    "h": 546
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-04-off-axis-sensor-mtg-140416-6e702b5371.jpg",
+    "src": "One Pagers/Off-axis Sensor mtg_140416.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-05-limp-home-position-sensor-dec--0095b02db1.png",
+    "src": "One Pagers/Limp_Home_Position_Sensor_Dec_02_2015.pptx",
+    "bytes": 125119,
+    "w": 1051,
+    "h": 696
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-06-limp-home-position-sensor-dec--0dc7cb524d.png",
+    "src": "One Pagers/Limp_Home_Position_Sensor_Dec_02_2015.pptx",
+    "bytes": 94119,
+    "w": 925,
+    "h": 618
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-07-ng-sensors-f46d66e8e3.jpeg",
+    "src": "One Pagers/NG Sensors.pptx",
+    "bytes": 53198,
+    "w": 720,
+    "h": 540
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-08-ng-sensors-4defe7ee76.jpeg",
+    "src": "One Pagers/NG Sensors.pptx",
+    "bytes": 45728,
+    "w": 720,
+    "h": 540
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-09-off-axis-sensor-mtg-140416-7520319f0a.jpg",
+    "src": "One Pagers/Off-axis Sensor mtg_140416.pptx",
+    "bytes": 44772,
+    "w": 882,
+    "h": 768
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-10-limp-home-position-sensor-dec--698a1e4bbc.png",
+    "src": "One Pagers/Limp_Home_Position_Sensor_Dec_02_2015.pptx",
+    "bytes": 44217,
+    "w": 962,
+    "h": 384
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-11-ng-sensors-55661be8ea.png",
+    "src": "One Pagers/NG Sensors.pptx",
+    "bytes": 42093,
+    "w": 279,
+    "h": 232
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-12-limp-home-position-sensor-dec--218b5a1a1f.png",
+    "src": "One Pagers/Limp_Home_Position_Sensor_Dec_02_2015.pptx",
+    "bytes": 31998,
+    "w": 737,
+    "h": 305
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-13-t-p-sensor-mechs-24oc14-259cf10b10.png",
+    "src": "One Pagers/T&P sensor mechs 24OC14.pptx",
+    "bytes": 29967,
+    "w": 615,
+    "h": 175
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-14-limp-home-position-sensor-dec--da5c7195be.png",
+    "src": "One Pagers/Limp_Home_Position_Sensor_Dec_02_2015.pptx",
+    "bytes": 28696,
+    "w": 578,
+    "h": 375
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-15-limp-home-position-sensor-dec--bfd52d9c79.png",
+    "src": "One Pagers/Limp_Home_Position_Sensor_Dec_02_2015.pptx",
+    "bytes": 27164,
+    "w": 571,
+    "h": 375
+   },
+   {
+    "file": "assets/one-pagers/sensors-torque/fig-16-probe-housing-asm-signal-issue-29fb8fcf44.png",
+    "src": "One Pagers/Probe Housing Asm Signal Issue 07My14.pptx",
+    "bytes": 27031,
+    "w": 421,
+    "h": 120
+   }
+  ],
+  "vectors_skipped": 7,
+  "candidates": 28,
+  "files": [
+   "One Pagers/NG Sensors.pptx",
+   "One Pagers/Off-axis Sensor mtg_140416.pptx",
+   "One Pagers/T&P sensor mechs 24OC14.pptx",
+   "One Pagers/Rough rolled hall sensor teeth.pptx",
+   "One Pagers/Torque sensor dimensions.pptx",
+   "One Pagers/Probe Housing Asm Signal Issue 07My14.pptx",
+   "One Pagers/Probe Housing Asm Signal Issue 23AP14.pptx",
+   "One Pagers/Limp_Home_Position_Sensor_Dec_02_2015.pptx"
+  ]
+ },
+ "one-pagers/motor-noise-nvh": {
+  "images": [
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-01-pmsynrm-updates-06242015-f046185913.png",
+    "src": "One Pagers/PMSynRM_updates_06242015.pptx",
+    "bytes": 638940,
+    "w": 2323,
+    "h": 697
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-02-pmsynrm-updates-06242015-6bd4c690ef.png",
+    "src": "One Pagers/PMSynRM_updates_06242015.pptx",
+    "bytes": 490073,
+    "w": 1510,
+    "h": 455
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-03-2-step-skew-motor-noise-update-17764a6b80.jpg",
+    "src": "One Pagers/2 Step Skew Motor Noise Update.pptx",
+    "bytes": 462236,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-04-pmsynrm-updates-06242015-5ebabd3483.png",
+    "src": "One Pagers/PMSynRM_updates_06242015.pptx",
+    "bytes": 428284,
+    "w": 1457,
+    "h": 439
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-05-pmsynrm-updates-06242015-95cee204a6.png",
+    "src": "One Pagers/PMSynRM_updates_06242015.pptx",
+    "bytes": 308823,
+    "w": 1283,
+    "h": 385
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-06-pmsynrm-updates-06242015-e6f3e724fa.png",
+    "src": "One Pagers/PMSynRM_updates_06242015.pptx",
+    "bytes": 298267,
+    "w": 1432,
+    "h": 430
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-07-2-step-skew-motor-noise-update-d17e011878.jpg",
+    "src": "One Pagers/2 Step Skew Motor Noise Update.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-08-pmsynrm-updates-06242015-27eea82005.png",
+    "src": "One Pagers/PMSynRM_updates_06242015.pptx",
+    "bytes": 277025,
+    "w": 1078,
+    "h": 324
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-09-2-step-skewed-magnet-motor-noi-6e702b5371.jpg",
+    "src": "One Pagers/2 Step Skewed Magnet Motor Noise 21_jan_15 Tech Team.pptx",
+    "bytes": 201818,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-10-2-step-skew-motor-noise-update-e326d934be.jpg",
+    "src": "One Pagers/2 Step Skew Motor Noise Update.pptx",
+    "bytes": 193134,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-11-pmsynrm-updates-06242015-44209106d2.png",
+    "src": "One Pagers/PMSynRM_updates_06242015.pptx",
+    "bytes": 188400,
+    "w": 788,
+    "h": 626
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-12-r1-r2-and-2-step-skewed-spm-ro-52e9b15555.png",
+    "src": "One Pagers/R1=R2 and 2-step skewed SPM rotor with Needle Wound Stator.pptx",
+    "bytes": 168331,
+    "w": 1200,
+    "h": 1600
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-13-pmsynrm-updates-06242015-36544333fc.jpeg",
+    "src": "One Pagers/PMSynRM_updates_06242015.pptx",
+    "bytes": 141630,
+    "w": 1081,
+    "h": 661
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-14-2-step-skewed-magnet-motor-noi-231c640563.png",
+    "src": "One Pagers/2 Step Skewed Magnet Motor Noise 7_jan_15rev 1.pptx",
+    "bytes": 78756,
+    "w": 1645,
+    "h": 777
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-15-pmsynrm-updates-06242015-787e7d2d3b.png",
+    "src": "One Pagers/PMSynRM_updates_06242015.pptx",
+    "bytes": 52721,
+    "w": 446,
+    "h": 430
+   },
+   {
+    "file": "assets/one-pagers/motor-noise-nvh/fig-16-2-step-skew-motor-noise-update-c0ce2aa7ea.png",
+    "src": "One Pagers/2 Step Skew Motor Noise Update.pptx",
+    "bytes": 47881,
+    "w": 1194,
+    "h": 632
+   }
+  ],
+  "vectors_skipped": 49,
+  "candidates": 19,
+  "files": [
+   "One Pagers/2 Step Skew Motor Noise Update.pptx",
+   "One Pagers/2 Step Skewed Magnet Motor Noise 21_jan_15 Tech Team.pptx",
+   "One Pagers/2 Step Skewed Magnet Motor Noise 7_jan_15rev 1.pptx",
+   "One Pagers/R1=R2 and 2-step skewed SPM rotor with Needle Wound Stator.pptx",
+   "One Pagers/PMSynRM_updates_06242015.pptx"
+  ]
+ },
+ "one-pagers/electronics-safety": {
+  "images": [
+   {
+    "file": "assets/one-pagers/electronics-safety/fig-01-sensorlessmotorcontroltoplevel-f46d66e8e3.jpeg",
+    "src": "One Pagers/SensorlessMotorControlTopLevelView.pptx",
+    "bytes": 53198,
+    "w": 720,
+    "h": 540
+   },
+   {
+    "file": "assets/one-pagers/electronics-safety/fig-02-sensorlessmotorcontroltoplevel-4defe7ee76.jpeg",
+    "src": "One Pagers/SensorlessMotorControlTopLevelView.pptx",
+    "bytes": 45728,
+    "w": 720,
+    "h": 540
+   },
+   {
+    "file": "assets/one-pagers/electronics-safety/fig-03-sensorlessmotorcontroltoplevel-b4400d6af0.png",
+    "src": "One Pagers/SensorlessMotorControlTopLevelView.pptx",
+    "bytes": 23837,
+    "w": 388,
+    "h": 111
+   },
+   {
+    "file": "assets/one-pagers/electronics-safety/fig-04-redundant-controller-04mr14-a5aad9d4af.jpg",
+    "src": "One Pagers/Redundant controller (04MR14).pptx",
+    "bytes": 18964,
+    "w": 482,
+    "h": 248
+   },
+   {
+    "file": "assets/one-pagers/electronics-safety/fig-05-sensorlessmotorcontroltoplevel-fe6bce840a.png",
+    "src": "One Pagers/SensorlessMotorControlTopLevelView.pptx",
+    "bytes": 16377,
+    "w": 288,
+    "h": 82
+   }
+  ],
+  "vectors_skipped": 385,
+  "candidates": 5,
+  "files": [
+   "One Pagers/Redundant controller (04MR14).pptx",
+   "One Pagers/SensorlessMotorControlTopLevelView.pptx"
+  ]
+ },
+ "one-pagers/vehicle-integration": {
+  "images": [
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-01-projects-to-be-included-in-tec-d5aff81df8.png",
+    "src": "One Pagers/Projects to be included in TechRoadMap .pptx",
+    "bytes": 1954187,
+    "w": 3840,
+    "h": 1080
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-02-hrloeps-project-gk-tech-plan-m-888e7e3709.png",
+    "src": "One Pagers/HRLOEPS project GK tech plan mtg 16JL14.pptx",
+    "bytes": 624872,
+    "w": 1458,
+    "h": 1038
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-03-ford-cd6-v36x-fit-and-function-17764a6b80.jpg",
+    "src": "One Pagers/ford cd6 v36x fit and functional safety 18jn15 fit only.pptx",
+    "bytes": 462236,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-04-reps-ratio-d17e011878.jpg",
+    "src": "One Pagers/REPS Ratio.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-05-hrloeps-project-gk-tech-plan-m-788c57e26e.png",
+    "src": "One Pagers/HRLOEPS project GK tech plan mtg 16JL14.pptx",
+    "bytes": 256595,
+    "w": 1194,
+    "h": 452
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-06-projects-to-be-included-in-tec-979813d4fc.png",
+    "src": "One Pagers/Projects to be included in TechRoadMap .pptx",
+    "bytes": 231677,
+    "w": 345,
+    "h": 461
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-07-updated-tech-roadmap-updates-j-3081755db7.png",
+    "src": "One Pagers/Updated Tech Roadmap Updates June 10 ,2015.pptx",
+    "bytes": 230812,
+    "w": 806,
+    "h": 558
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-08-updated-tech-roadmap-updates-j-d493e7b294.png",
+    "src": "One Pagers/Updated Tech Roadmap Updates June 10 ,2015.pptx",
+    "bytes": 229168,
+    "w": 1366,
+    "h": 768
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-09-projects-to-be-included-in-tec-bf50b9d0bc.png",
+    "src": "One Pagers/Projects to be included in TechRoadMap .pptx",
+    "bytes": 222419,
+    "w": 380,
+    "h": 507
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-10-hrloeps-project-gk-tech-plan-m-e18528170a.png",
+    "src": "One Pagers/HRLOEPS project GK tech plan mtg 16JL14.pptx",
+    "bytes": 222237,
+    "w": 879,
+    "h": 342
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-11-hrloeps-project-gk-tech-plan-m-cc2440309f.png",
+    "src": "One Pagers/HRLOEPS project GK tech plan mtg 16JL14.pptx",
+    "bytes": 218695,
+    "w": 880,
+    "h": 289
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-12-updated-tech-roadmap-updates-j-07edc795ac.png",
+    "src": "One Pagers/Updated Tech Roadmap Updates June 10 ,2015.pptx",
+    "bytes": 216331,
+    "w": 1366,
+    "h": 768
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-13-reps-ratio-d05ba5b8a0.png",
+    "src": "One Pagers/REPS Ratio.pptx",
+    "bytes": 205413,
+    "w": 481,
+    "h": 514
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-14-updated-tech-roadmap-updates-j-7e768e6edc.png",
+    "src": "One Pagers/Updated Tech Roadmap Updates June 10 ,2015.pptx",
+    "bytes": 198483,
+    "w": 527,
+    "h": 315
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-15-ford-cd6-v36x-fit-and-function-e326d934be.jpg",
+    "src": "One Pagers/ford cd6 v36x fit and functional safety 18jn15 fit only.pptx",
+    "bytes": 193134,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/fig-16-hrloeps-project-gk-tech-plan-m-3e5f6933ec.png",
+    "src": "One Pagers/HRLOEPS project GK tech plan mtg 16JL14.pptx",
+    "bytes": 178399,
+    "w": 1597,
+    "h": 1056
+   },
+   {
+    "file": "assets/one-pagers/vehicle-integration/pdf-p1-1584x1224.png",
+    "src": "One Pagers/EA4 High Level Timing.pdf",
+    "bytes": 557052,
+    "w": 1584,
+    "h": 1224
+   }
+  ],
+  "vectors_skipped": 12,
+  "candidates": 42,
+  "files": [
+   "One Pagers/REPS Ratio.pptx",
+   "One Pagers/ford cd6 v36x fit and functional safety 18jn15 fit only.pptx",
+   "One Pagers/HRLOEPS project GK tech plan mtg 16JL14.pptx",
+   "One Pagers/Projects to be included in TechRoadMap .pptx",
+   "One Pagers/Updated Tech Roadmap Updates June 10 ,2015.pptx",
+   "One Pagers/EA4 High Level Timing.pdf"
+  ]
+ },
+ "supporting-material/customer-presentation": {
+  "images": [
+   {
+    "file": "assets/supporting-material/customer-presentation/fig-01-151030-psa-visit-nchampetier-d-463b2ba63e.png",
+    "src": "supporting material/Customer presentation/151030_PSA_Visit_NChampetier_D2_4_R&D.pptx",
+    "bytes": 196996,
+    "w": 682,
+    "h": 473
+   },
+   {
+    "file": "assets/supporting-material/customer-presentation/fig-02-151030-psa-visit-nchampetier-d-2e557f9e99.png",
+    "src": "supporting material/Customer presentation/151030_PSA_Visit_NChampetier_D2_4_R&D.pptx",
+    "bytes": 138871,
+    "w": 1876,
+    "h": 944
+   },
+   {
+    "file": "assets/supporting-material/customer-presentation/fig-03-151030-psa-visit-nchampetier-d-6d3fb67588.png",
+    "src": "supporting material/Customer presentation/151030_PSA_Visit_NChampetier_D2_4_R&D.pptx",
+    "bytes": 92963,
+    "w": 670,
+    "h": 463
+   },
+   {
+    "file": "assets/supporting-material/customer-presentation/fig-04-151030-psa-visit-nchampetier-d-a532b9d69e.png",
+    "src": "supporting material/Customer presentation/151030_PSA_Visit_NChampetier_D2_4_R&D.pptx",
+    "bytes": 88977,
+    "w": 332,
+    "h": 226
+   },
+   {
+    "file": "assets/supporting-material/customer-presentation/fig-05-151030-psa-visit-nchampetier-d-6f98d9a3a9.png",
+    "src": "supporting material/Customer presentation/151030_PSA_Visit_NChampetier_D2_4_R&D.pptx",
+    "bytes": 63193,
+    "w": 418,
+    "h": 274
+   },
+   {
+    "file": "assets/supporting-material/customer-presentation/fig-06-151030-psa-visit-nchampetier-d-a7dc37e57f.png",
+    "src": "supporting material/Customer presentation/151030_PSA_Visit_NChampetier_D2_4_R&D.pptx",
+    "bytes": 59785,
+    "w": 522,
+    "h": 152
+   },
+   {
+    "file": "assets/supporting-material/customer-presentation/fig-07-151030-psa-visit-nchampetier-d-f31b8c5751.png",
+    "src": "supporting material/Customer presentation/151030_PSA_Visit_NChampetier_D2_4_R&D.pptx",
+    "bytes": 57498,
+    "w": 591,
+    "h": 160
+   },
+   {
+    "file": "assets/supporting-material/customer-presentation/fig-08-151030-psa-visit-nchampetier-d-2de68b5356.png",
+    "src": "supporting material/Customer presentation/151030_PSA_Visit_NChampetier_D2_4_R&D.pptx",
+    "bytes": 56505,
+    "w": 475,
+    "h": 277
+   },
+   {
+    "file": "assets/supporting-material/customer-presentation/fig-09-151030-psa-visit-nchampetier-d-b5920b48f3.png",
+    "src": "supporting material/Customer presentation/151030_PSA_Visit_NChampetier_D2_4_R&D.pptx",
+    "bytes": 56480,
+    "w": 322,
+    "h": 235
+   },
+   {
+    "file": "assets/supporting-material/customer-presentation/fig-10-151030-psa-visit-nchampetier-d-a62a5691eb.png",
+    "src": "supporting material/Customer presentation/151030_PSA_Visit_NChampetier_D2_4_R&D.pptx",
+    "bytes": 56446,
+    "w": 391,
+    "h": 264
+   }
+  ],
+  "vectors_skipped": 8,
+  "candidates": 28,
+  "files": [
+   "supporting material/Customer presentation/151030_PSA_Visit_NChampetier_D2_4_R&D.pptx"
+  ]
+ },
+ "supporting-material/for-frank": {
+  "images": [
+   {
+    "file": "assets/supporting-material/for-frank/fig-01-eps-trm-update-21oc15-draft-7f1e523354.png",
+    "src": "supporting material/For Frank/EPS TRM update 21OC15 Draft.pptx",
+    "bytes": 359955,
+    "w": 376,
+    "h": 435
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-02-tech-plan-nsc-reveiw-14oc14-dr-509b785b87.jpeg",
+    "src": "supporting material/For Frank/Tech Plan NSC reveiw 14OC14 draft2.pptx",
+    "bytes": 359387,
+    "w": 1217,
+    "h": 685
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-03-eps-trm-update-21oc15-draft-1d61624412.png",
+    "src": "supporting material/For Frank/EPS TRM update 21OC15 Draft.pptx",
+    "bytes": 339804,
+    "w": 495,
+    "h": 329
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-04-tech-plan-nsc-reveiw-14oc14-dr-5d876dd7c3.png",
+    "src": "supporting material/For Frank/Tech Plan NSC reveiw 14OC14 draft2.pptx",
+    "bytes": 298027,
+    "w": 1816,
+    "h": 1402
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-05-tech-plan-nsc-reveiw-14oc14-dr-9143c5c323.png",
+    "src": "supporting material/For Frank/Tech Plan NSC reveiw 14OC14 draft2.pptx",
+    "bytes": 293486,
+    "w": 650,
+    "h": 366
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-06-eps-trm-update-21oc15-draft-d17e011878.jpg",
+    "src": "supporting material/For Frank/EPS TRM update 21OC15 Draft.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-07-eps-trm-update-21oc15-draft-535b2368bd.png",
+    "src": "supporting material/For Frank/EPS TRM update 21OC15 Draft.pptx",
+    "bytes": 262225,
+    "w": 1459,
+    "h": 688
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-08-tech-plan-nsc-reveiw-14oc14-dr-e3ad09baa5.png",
+    "src": "supporting material/For Frank/Tech Plan NSC reveiw 14OC14 draft2.pptx",
+    "bytes": 202270,
+    "w": 947,
+    "h": 434
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-09-tech-plan-nsc-reveiw-14oc14-dr-7525abae04.png",
+    "src": "supporting material/For Frank/Tech Plan NSC reveiw 14OC14 draft2.pptx",
+    "bytes": 197600,
+    "w": 933,
+    "h": 787
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-10-tech-plan-nsc-reveiw-14oc14-dr-f86633d492.png",
+    "src": "supporting material/For Frank/Tech Plan NSC reveiw 14OC14 draft2.pptx",
+    "bytes": 186556,
+    "w": 411,
+    "h": 339
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-11-eps-trm-update-21oc15-draft-a63065116f.png",
+    "src": "supporting material/For Frank/EPS TRM update 21OC15 Draft.pptx",
+    "bytes": 181885,
+    "w": 501,
+    "h": 341
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-12-tech-plan-nsc-reveiw-14oc14-dr-94ea19227e.png",
+    "src": "supporting material/For Frank/Tech Plan NSC reveiw 14OC14 draft2.pptx",
+    "bytes": 157315,
+    "w": 473,
+    "h": 266
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-13-eps-trm-update-21oc15-draft-872ce3b52e.png",
+    "src": "supporting material/For Frank/EPS TRM update 21OC15 Draft.pptx",
+    "bytes": 136698,
+    "w": 550,
+    "h": 418
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-14-tech-plan-nsc-reveiw-14oc14-dr-f825471491.png",
+    "src": "supporting material/For Frank/Tech Plan NSC reveiw 14OC14 draft2.pptx",
+    "bytes": 121842,
+    "w": 652,
+    "h": 393
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-15-tech-plan-nsc-reveiw-14oc14-dr-bc49b6d854.jpeg",
+    "src": "supporting material/For Frank/Tech Plan NSC reveiw 14OC14 draft2.pptx",
+    "bytes": 117392,
+    "w": 787,
+    "h": 443
+   },
+   {
+    "file": "assets/supporting-material/for-frank/fig-16-tech-plan-nsc-reveiw-14oc14-dr-23d5891f6c.png",
+    "src": "supporting material/For Frank/Tech Plan NSC reveiw 14OC14 draft2.pptx",
+    "bytes": 113114,
+    "w": 762,
+    "h": 769
+   }
+  ],
+  "vectors_skipped": 19,
+  "candidates": 39,
+  "files": [
+   "supporting material/For Frank/EPS TRM update 21OC15 Draft.pptx",
+   "supporting material/For Frank/EPS TRM update 21OC15 Krieger.pptx",
+   "supporting material/For Frank/EPS TRM update 21OC15.pptx",
+   "supporting material/For Frank/EPS TRM update.pptx",
+   "supporting material/For Frank/Tech Plan NSC reveiw 14OC14 draft2.pptx"
+  ]
+ },
+ "supporting-material/product-team": {
+  "images": [
+   {
+    "file": "assets/supporting-material/product-team/fig-01-tech-plan-pt-sizelove-zuraski--76eacf7449.png",
+    "src": "supporting material/Product Team presentation/Tech Plan PT -Sizelove-Zuraski 18SE14 Final.pptx",
+    "bytes": 802033,
+    "w": 1366,
+    "h": 768
+   },
+   {
+    "file": "assets/supporting-material/product-team/fig-02-product-team-update-feb-26-201-b9c0a3e603.png",
+    "src": "supporting material/Product Team presentation/Product Team update - Feb. 26, 2015.pptx",
+    "bytes": 625942,
+    "w": 1366,
+    "h": 768
+   },
+   {
+    "file": "assets/supporting-material/product-team/fig-03-tech-plan-pt-sizelove-zuraski--888e7e3709.png",
+    "src": "supporting material/Product Team presentation/Tech Plan PT -Sizelove-Zuraski 18SE14 Final.pptx",
+    "bytes": 624872,
+    "w": 1458,
+    "h": 1038
+   },
+   {
+    "file": "assets/supporting-material/product-team/fig-04-product-team-update-feb-26-201-17764a6b80.jpg",
+    "src": "supporting material/Product Team presentation/Product Team update - Feb. 26, 2015.pptx",
+    "bytes": 462236,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/supporting-material/product-team/fig-05-tech-plan-pt-sizelove-zuraski--ed04a94e1d.png",
+    "src": "supporting material/Product Team presentation/Tech Plan PT -Sizelove-Zuraski 18SE14 Final.pptx",
+    "bytes": 412633,
+    "w": 937,
+    "h": 437
+   },
+   {
+    "file": "assets/supporting-material/product-team/fig-06-product-team-update-feb-26-201-8fa5534906.png",
+    "src": "supporting material/Product Team presentation/Product Team update - Feb. 26, 2015.pptx",
+    "bytes": 399770,
+    "w": 1366,
+    "h": 768
+   },
+   {
+    "file": "assets/supporting-material/product-team/fig-07-tech-plan-pt-sizelove-zuraski--1d61624412.png",
+    "src": "supporting material/Product Team presentation/Tech Plan PT -Sizelove-Zuraski 18SE14 Final.pptx",
+    "bytes": 339804,
+    "w": 495,
+    "h": 329
+   },
+   {
+    "file": "assets/supporting-material/product-team/fig-08-product-team-update-feb-26-201-1c4ccfc58e.jpeg",
+    "src": "supporting material/Product Team presentation/Product Team update - Feb. 26, 2015.pptx",
+    "bytes": 333263,
+    "w": 1678,
+    "h": 944
+   },
+   {
+    "file": "assets/supporting-material/product-team/fig-09-tech-plan-pt-sizelove-zuraski--9143c5c323.png",
+    "src": "supporting material/Product Team presentation/Tech Plan PT -Sizelove-Zuraski 18SE14 Final.pptx",
+    "bytes": 293486,
+    "w": 650,
+    "h": 366
+   },
+   {
+    "file": "assets/supporting-material/product-team/fig-10-product-team-update-oct-2015-d17e011878.jpg",
+    "src": "supporting material/Product Team presentation/Product Team update Oct 2015.pptx",
+    "bytes": 280759,
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "file": "assets/supporting-material/product-team/fig-11-tech-plan-pt-sizelove-zuraski--40294899b3.png",
+    "src": "supporting material/Product Team presentation/Tech Plan PT -Sizelove-Zuraski 18SE14 Final.pptx",
+    "bytes": 238007,
+    "w": 610,
+    "h": 406
+   },
+   {
+    "file": "assets/supporting-material/product-team/fig-12-tech-plan-pt-sizelove-zuraski--dadec97cbe.png",
+    "src": "supporting material/Product Team presentation/Tech Plan PT -Sizelove-Zuraski 18SE14 Final.pptx",
+    "bytes": 235330,
+    "w": 1266,
+    "h": 514
+   },
+   {
+    "file": "assets/supporting-material/product-team/fig-13-tech-plan-pt-sizelove-zuraski--d12f805aec.png",
+    "src": "supporting material/Product Team presentation/Tech Plan PT -Sizelove-Zuraski 18SE14 Final.pptx",
+    "bytes": 213208,
+    "w": 1600,
+    "h": 795
+   },
+   {
+    "file": "assets/supporting-material/product-team/fig-14-tech-plan-pt-sizelove-zuraski--e3ad09baa5.png",
+    "src": "supporting material/Product Team presentation/Tech Plan PT -Sizelove-Zuraski 18SE14 Final.pptx",
+    "bytes": 202270,
+    "w": 947,
+    "h": 434
+   }
+  ],
+  "vectors_skipped": 16,
+  "candidates": 66,
+  "files": [
+   "supporting material/Product Team presentation/Product Team update - Feb. 26, 2015.pptx",
+   "supporting material/Product Team presentation/Product Team update Oct 2015.pptx",
+   "supporting material/Product Team presentation/Tech Plan PT -Sizelove-Zuraski 18SE14 Final.pptx"
+  ]
+ },
+ "mechanical-engineering/outer-ball-drawing": {
+  "images": [
+   {
+    "file": "assets/mechanical-engineering/outer-ball-drawing/pdf-p1-2000x1415.png",
+    "src": "M.E objectives/2016-5-25/29T_Outer_ball_26142102_008C.pdf",
+    "bytes": 362071,
+    "w": 2000,
+    "h": 1415
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 0,
+  "files": [
+   "M.E objectives/2016-5-25/29T_Outer_ball_26142102_008C.pdf"
+  ]
+ },
+ "roadmap/master-11my16": {
+  "images": [
+   {
+    "file": "assets/roadmap/master-11my16/roadmap-xlsx-1.png",
+    "src": "Technology Roadmap 11MY16.xlsx",
+    "bytes": 61446,
+    "w": 0,
+    "h": 0
+   },
+   {
+    "file": "assets/roadmap/master-11my16/roadmap-xlsx-2.png",
+    "src": "Technology Roadmap 11MY16.xlsx",
+    "bytes": 163969,
+    "w": 0,
+    "h": 0
+   },
+   {
+    "file": "assets/roadmap/master-11my16/roadmap-xlsx-3.png",
+    "src": "Technology Roadmap 11MY16.xlsx",
+    "bytes": 15423,
+    "w": 0,
+    "h": 0
+   }
+  ],
+  "vectors_skipped": 0,
+  "candidates": 0,
+  "files": [
+   "Technology Roadmap 11MY16.xlsx"
+  ]
+ }
+}

@@ -1,0 +1,57 @@
+---
+title: How to use this archive
+description: Find anything in under a minute, online or offline.
+---
+
+import { Steps, FileTree, Tabs, TabItem } from '@astrojs/starlight/components';
+
+<Steps>
+
+1. **Search first.** Press <kbd>/</kbd> and try `limp home`, `spring isolator`, `48V`, `boot`, `T-bar`. Every TRM has its own page.
+2. **Filter by TRM ID.** Know the code? Go straight to `./trm/trm-XXX/`. The [TRM index](./../trm/) lists all 39.
+3. **Browse by problem.** Noise → `one-pagers/motor-noise-nvh/` · Sensors → `one-pagers/sensors-torque/` · Safety → `one-pagers/electronics-safety/`.
+4. **Drop to the binary when needed.** Each page's **Sources** table gives the exact repo-root path — open it in PowerPoint/LibreOffice/Excel.
+
+</Steps>
+
+## Layout (repo root vs. docs)
+
+<FileTree>
+
+- README.md — you are here (map + TRM table)
+- Technology Roadmap 11MY16.xlsx — master workbook
+- Digital Motor Position/ — 4 pptx
+- DisruptiveTechnology/Low Output CEPS/ — 1 pptx
+- M.E objectives/ — 5 pptx + PDF drawing
+- One Pagers/ — 27 loose + 39 TRM-xxx/ folders
+- supporting material/ — LoA, models, customer + team decks
+- docs/ — this site (Astro + Starlight, MD/MDX)
+  - src/content/docs/ — one section per row above
+  - astro.config.mjs — sidebar + SITE/BASE (env, fork-friendly)
+
+</FileTree>
+
+## Build for your fork
+
+<Tabs>
+  <TabItem label="Local">
+    ```bash
+    cd docs
+    npm install
+    npm run dev
+    ```
+  </TabItem>
+  <TabItem label="Project Pages">
+    ```bash
+    # https://<OWNER>.github.io/<REPO>/
+    SITE=https://<OWNER>.github.io BASE=/<REPO>/ npm run build
+    ```
+    Publish `docs/dist/` from your own workflow (none is committed on purpose).
+  </TabItem>
+  <TabItem label="User Pages">
+    ```bash
+    # https://<OWNER>.github.io/
+    SITE=https://<OWNER>.github.io BASE=/ npm run build
+    ```
+  </TabItem>
+</Tabs>

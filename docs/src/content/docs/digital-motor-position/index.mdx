@@ -1,0 +1,30 @@
+---
+title: Digital motor position
+description: Handwheel sensing, probe-housing signal, spur-gear study.
+sidebar:
+  label: Overview
+  order: 0
+---
+
+import { CardGrid, Card } from '@astrojs/starlight/components';
+
+<CardGrid>
+  <Card title="Handwheel sensing" icon="setting">
+    SGMW 200 digital sensor: 40% sort reject at 12 Gauss, 8–10 Gauss parts to Saginaw, Allegro BC chip + stronger magnets + SW averaging in flight.
+  </Card>
+  <Card title="Probe housing" icon="warning">
+    1.0 mm Hall-to-magnet shift under review; software + magnet + patent + timing trade-offs.
+  </Card>
+  <Card title="Spur gear" icon="puzzle">
+    Single → dual spur-gear path feeding zero-lash work (see CCM-174).
+  </Card>
+</CardGrid>
+
+## Decks
+
+| Deck | Page |
+|---|---|
+| Digital Handwheel Position Sensor — 19MR14 | [Open](./digital-handwheel-19mr14/) |
+| Digital Handwheel Position Sensor — 26MR14a | [Open](./digital-handwheel-26mr14/) |
+| Probe Housing Asm Signal Issue — 16AP14 | [Open](./probe-housing-16ap14/) |
+| Single to Dual Spur Gear — 09AP14a | [Open](./single-to-dual-spur-gear/) |

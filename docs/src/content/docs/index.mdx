@@ -1,0 +1,52 @@
+---
+title: EPS Technical Documentation
+description: Searchable archive of the Electric Power Steering Technology Roadmap (2014–2016).
+template: splash
+hero:
+  tagline: Systems, mechanical, sensors, motor control, electronics, safety, NVH — one searchable site.
+  actions:
+    - text: Browse the roadmap
+      link: ./roadmap/
+      icon: right-arrow
+    - text: Find a TRM
+      link: ./trm/
+      icon: magnifier
+      variant: secondary
+---
+
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+<CardGrid stagger>
+  <Card title="Start with the program" icon="rocket">
+    The master roadmap to 11MY16 plus scoring, timing and applicability — distilled to one page.
+  </Card>
+  <Card title="Search everything" icon="magnifier">
+    Every deck has a text preview + source table. Press <kbd>/</kbd> and try `limp home`, `pulley`, `FET`, `skew`.
+  </Card>
+  <Card title="Originals untouched" icon="document">
+    Binaries stay at the repo root. Each page links back to the exact filename + size.
+  </Card>
+  <Card title="Fork-friendly Pages" icon="github">
+    No owner/repo hard-coded. Build with `SITE` / `BASE` for your fork — no workflow committed.
+  </Card>
+</CardGrid>
+
+## Pick a path
+
+<LinkCard title="Roadmap to 11MY16" description="Master workbook, scoring rubric, timing." href="./roadmap/" />
+<LinkCard title="TRM index (TRM-002…TRM-204)" description="One searchable page per technology." href="./trm/" />
+<LinkCard title="One-pagers by topic" description="Systems, mechanical, sensors, noise, safety, vehicle." href="./one-pagers/" />
+<LinkCard title="Supporting material" description="LoA taxonomy, cost + sizing models, leadership decks." href="./supporting-material/" />
+
+## How this site is organized
+
+| Section | What you get |
+|---|---|
+| `roadmap/` | Master workbook summary — what the 25 sheets mean |
+| `digital-motor-position/` | Handwheel sensing, probe-housing issue, spur-gear study |
+| `low-output-ceps/` | LO CEPS disruptive cost-down (Fiat 319/332 baseline) |
+| `mechanical-engineering/` | Racks, ball nuts, pinion skiving, stop-tooth spline |
+| `one-pagers/` | Loose decks grouped by topic (noise, sensors, safety…) |
+| `trm/` | One page per TRM ID with key points + slide preview |
+| `supporting-material/` | LoA/LoSAS, cost + powerpack models, customer + team decks |
+| `reference/` | Full file index + abbreviations |
